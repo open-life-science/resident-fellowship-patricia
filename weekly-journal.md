@@ -4,6 +4,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 ## 2022
 * [17-10-2022](#week-17-october-2022)
+* [24-10-2022](#week-24-october-2022)
 
 ## Week: 17 October 2022
 
@@ -23,9 +24,30 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 * Managed to attend parts of the Science Europe Open Science conference, didn't feel I learned too many new things though.
-* Did my SSI Fellowship shortlisting which was super nice again
-* Progressed some consultancy discussions
+* Did my SSI Fellowship shortlisting which was super nice again.
+* Progressed some consultancy discussions.
 
+## Week: 24 October 2022
+
+### What brought you joy this week?
+
+* New nail colour.
+* Being able to be grumpy in the cafe-te-ria session.
+* Lovely feedback on the Ally Skills session
+
+### What did you achieve
+
+* Ran Ally Skills workshop and led on more content - slowly getting more comfortable facilitating them.
+* Brainstormed with Yo about OLS fellowship programmes of various kinds.
+* Started some documents on the open-source module.
+
+### What did you struggle with?
+
+* Low energy week full of brain fry, little sleep and just a lot of down time. Brain struggled to focus.
+
+### Any other topics
+
+* Managed some other adulting tasks this week that occupied a lot of brain space.
 
 
 # Template
@@ -35,7 +57,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### What brought you joy this week?
 
 * Replace this text with a one/two sentence description of who you helped this week and how.
-
+* 
 ### What did you achieve
 
 * Replace this text with a bullet point list of what you achieved this week.
