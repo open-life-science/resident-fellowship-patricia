@@ -5,6 +5,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ## 2022
 * [17-10-2022](#week-17-october-2022)
 * [24-10-2022](#week-24-october-2022)
+* [31-10-2022](#week-31-october-2022)
 
 ## Week: 17 October 2022
 
@@ -49,6 +50,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 * Managed some other adulting tasks this week that occupied a lot of brain space.
 
+## Week: 31 October 2022
+
+### What brought you joy this week?
+
+* OLS social and checking in with folks.
+ 
+### What did you achieve
+
+* Decent first draft of OS session.
+* Progressed resources and speakers.
+* Co-hosted co-working session.
+* Minor promo for accessibility session.
+
+### What did you struggle with?
+
+* Identifying more speakers - not yet as aware of the amazing OLS community as I'd like to be. 
+
+### Any other topics
+
+* Attended an in-person conference to start the week. Struggling with in-person, will avoid as much as possible. 
+* Trying to find a rhythm for the rest of the tasks.
 
 # Template
 
