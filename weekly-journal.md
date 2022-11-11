@@ -6,6 +6,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [17-10-2022](#week-17-october-2022)
 * [24-10-2022](#week-24-october-2022)
 * [31-10-2022](#week-31-october-2022)
+* [07-11-2022](#week-7-november-2022)
 
 ## Week: 17 October 2022
 
@@ -71,6 +72,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 * Attended an in-person conference to start the week. Struggling with in-person, will avoid as much as possible. 
 * Trying to find a rhythm for the rest of the tasks.
+
+## Week: 7 November 2022
+
+### What brought you joy this week?
+
+* Loved the insights from the accessibility for visual impairment session
+* Volunteering at the Radical Book Fair
+
+### What did you achieve
+
+* Initial reporting on EOSC-Life
+* Managed some feedback on proposals
+
+### What did you struggle with?
+
+* Zoom logins - couldn't host co-working
+* Open source session hasn't progressed as much as I wanted
+
+### Any other topics
+
+* Unblocked some consultancy aspects
+* Booked a passport appointment
 
 # Template
 
