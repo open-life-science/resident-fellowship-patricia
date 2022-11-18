@@ -7,6 +7,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [24-10-2022](#week-24-october-2022)
 * [31-10-2022](#week-31-october-2022)
 * [07-11-2022](#week-7-november-2022)
+* [14-11-2022](#week-14-november-2022)
 
 ## Week: 17 October 2022
 
@@ -94,6 +95,26 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 * Unblocked some consultancy aspects
 * Booked a passport appointment
+
+## Week: 14 November 2022
+
+### What brought you joy this week?
+
+* SSI Fellow selection: 1.5 intense days but as always soo interesting to see awesome folk collaborate
+
+### What did you achieve
+
+* New (final) version of open source module
+* Invited some speakers, one confirmed
+* Helped looking at some mastodon server policies
+
+### What did you struggle with?
+
+* No major big blocker, but also not much focused work it feels. Got a lot of small things done.
+
+### Any other topics
+
+* Attended the SSI session on befriending your inner critic, need to figure out how to make meditation more of a habit.
 
 # Template
 
