@@ -8,6 +8,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [31-10-2022](#week-31-october-2022)
 * [07-11-2022](#week-7-november-2022)
 * [14-11-2022](#week-14-november-2022)
+* [21-11-2022](#week-21-november-2022)
 
 ## Week: 17 October 2022
 
@@ -115,6 +116,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 * Attended the SSI session on befriending your inner critic, need to figure out how to make meditation more of a habit.
+
+## Week: 21 November 2022
+
+### What brought you joy this week?
+
+* Chatting to Yo to double check my approach for getting speakers for the OS module, incredibly helpful and now under control
+
+### What did you achieve
+
+* Quite a few fellows pieces: blog contribution, drafted a policy piece, some other small bits and bobs
+* Version one of the EOSC-Life report, should be almost ready to be ticked of the list
+* Hosted the co-working session
+
+### What did you struggle with?
+
+* Got a bit too stressed and muddled about OS module speakers.
+* Keeping to 7h for OLS stuff - so much to do and help with.
+
+### Any other topics
+
+* Managed to get some meditation in -> improving my habits
 
 # Template
 
