@@ -9,6 +9,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [07-11-2022](#week-7-november-2022)
 * [14-11-2022](#week-14-november-2022)
 * [21-11-2022](#week-21-november-2022)
+* [28-11-2022](#week-28-november-2022)
 
 ## Week: 17 October 2022
 
@@ -137,6 +138,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 * Managed to get some meditation in -> improving my habits
+
+## Week: 28 November 2022
+
+### What brought you joy this week?
+
+* The OS skill-up session on Wednesday! Not perfect, but a great session with wonderful speakers and engaged attendees.
+* Book club on Programm Management book.
+* Random chats in the co-working session.
+
+### What did you achieve
+
+* Finalized some of the fellow pieces, so things could actually go live.
+* Co-hosted the co-working.
+* Fed back on a range of documents.
+
+### What did you struggle with?
+
+* Zotero - why is references of "grey literature" so hard?
+* Very low energy this week, felt like some days, not much happened.
+* Again, keeping to 7h for OLS stuff...
+
 
 # Template
 
