@@ -10,6 +10,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [14-11-2022](#week-14-november-2022)
 * [21-11-2022](#week-21-november-2022)
 * [28-11-2022](#week-28-november-2022)
+* [05-12-2022](#week-5-december-2022)
 
 ## Week: 17 October 2022
 
@@ -159,6 +160,25 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * Very low energy this week, felt like some days, not much happened.
 * Again, keeping to 7h for OLS stuff...
 
+## Week: 5 December 2022
+
+### What brought you joy this week?
+
+* Meetings with poetry and cute tiny people.
+
+### What did you achieve
+
+* Contributed some bits to a grant proposal that was submitted this week.
+* Hosted quiet co-working.
+* To do list for the rest of the year/early 2023.
+
+### What did you struggle with?
+
+* Need to learn not to feel stressed when others are busy but trying to help would actually slow things down. Not good at watching other people working at 200%.
+
+### Any other topics
+
+* Need to catch up on consultancy but it does not feel out of control yet.
 
 # Template
 
