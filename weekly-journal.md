@@ -11,6 +11,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [21-11-2022](#week-21-november-2022)
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
+* [12-12-2022](#week-12-december-2022)
 
 ## Week: 17 October 2022
 
@@ -179,6 +180,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 * Need to catch up on consultancy but it does not feel out of control yet.
+
+## Week: 12 December 2022
+
+### What brought you joy this week?
+
+* Catching up with people ahead of the holiday break.
+
+### What did you achieve
+
+* Resident Fellows blog PR.
+* OLS/SSI Fellows announcements.
+* Some chats with Emmy about hiring and looking into potential workflows.
+
+### What did you struggle with?
+
+* Getting pictures to display as part of the blog. Fixing the PR for the blog under pressure.
+
+### Any other topics
+
+* My desk is a mess, I need to tidy before going on Christmas break.
+
 
 # Template
 
