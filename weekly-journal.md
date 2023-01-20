@@ -2,6 +2,10 @@
 
 This is inspired by Kirstie Whitaker's weekly reports and the encouragement from OLS fellow Maya Sundukova to write down what I spend my time on.
 
+## 2023
+* [16-01-2023](#week-16-january-2023)
+
+
 ## 2022
 * [17-10-2022](#week-17-october-2022)
 * [24-10-2022](#week-24-october-2022)
@@ -12,6 +16,26 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 16 January 2023
+
+### What brought you joy this week?
+
+* A 3 months check-in with Yo. I haven't started the year the most organised, so that was nice.
+
+### What did you achieve
+
+* Small bits: wrapping up the Open Source module, sorting invoices for EOSC-Life, hiring prep
+
+### What did you struggle with?
+
+* Zoom logins again
+* Proper vision and goal setting for 2023 - I'm procrastinating with all the small tasks to avoid asking the big question
+
+### Any other topics
+
+* Still enjoy the book club - the accountability for having to put down notes and thoughts helps enourmously 
+
 
 ## Week: 17 October 2022
 
