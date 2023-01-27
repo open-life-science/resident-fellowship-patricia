@@ -4,6 +4,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 ## 2023
 * [16-01-2023](#week-16-january-2023)
+* [23-01-2023](#week-23-january-2023)
 
 
 ## 2022
@@ -16,6 +17,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+
+## Week: 23 January 2023
+
+### What brought you joy this week?
+
+* Checking in with Mayya and brainstorming a few things together.
+ 
+### What did you achieve
+
+* First stab at looking at applications
+* Some small things around the OLS/SSI Fellows, it's moving now 💪
+
+### What did you struggle with?
+
+* Time keeping when looking at applications: I find it so hard to do that quickly and properly
+
+### Any other topics
+
+* Last week on the Whitaker Lab - feels like a big-ish decision to step away
+* Had to switch phone - also feels like a big deal nowadays
 
 ## Week: 16 January 2023
 
