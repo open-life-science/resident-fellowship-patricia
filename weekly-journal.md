@@ -5,6 +5,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ## 2023
 * [16-01-2023](#week-16-january-2023)
 * [23-01-2023](#week-23-january-2023)
+* [30-01-2023](#week-30-january-2023)
 
 
 ## 2022
@@ -18,6 +19,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+
+## Week: 30 January 2023
+
+### What brought you joy this week?
+
+* Planning for OLS/SSI Fellows - I actually have some inspiring ideas which does not happen often ;)
+ 
+### What did you achieve
+
+* OLS-7 reviews
+* Finalizing the application screening, joining project planning meeting for context
+* Basic roadmap for consultancy offer 
+
+### What did you struggle with?
+
+* Doing everything in 7 hours as always
+* Impostor syndrome around some other ideas
+
+### Any other topics
+
+* Wondering if I need to dig more into literature around communities... lots of thoughts, not well structured.
 
 ## Week: 23 January 2023
 
