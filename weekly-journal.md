@@ -6,6 +6,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [16-01-2023](#week-16-january-2023)
 * [23-01-2023](#week-23-january-2023)
 * [30-01-2023](#week-30-january-2023)
+* [06-02-2023](#week-6-february-2023)
 
 
 ## 2022
@@ -19,6 +20,25 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+## Week: 6 February 2023
+
+### What brought you joy this week?
+
+* Fireside prep discussion - really important conversation plus I very much like having a note taker that stops and summarizes my ramblings into something coherent
+
+### What did you achieve
+
+* Welcomed the OLS/SSI Fellows
+* Small tasks to further help progress hiring
+* Clarified some thoughts about conference submissions which should make putting proposals together more straightforward
+
+### What did you struggle with?
+
+* Do I sound like a broken record if I say doing everything in 7 hours?
+
+### Any other topics
+
+* Tackling the CEDI application is helpful but also a bit depressing and I'm unsure if I will submit.
 
 ## Week: 30 January 2023
 
