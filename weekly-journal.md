@@ -7,6 +7,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [23-01-2023](#week-23-january-2023)
 * [30-01-2023](#week-30-january-2023)
 * [06-02-2023](#week-6-february-2023)
+* [13-02-2023](#week-13-february-2023)
 
 
 ## 2022
@@ -19,6 +20,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+# Template
+
+## Week: 13 February 2023
+
+### What brought you joy this week?
+
+* Being able to dig into the Art of Gathering
+
+### What did you achieve
+
+* Draft for a CW23 submission
+* CEDI application - actually press the submit button
+* Small bits around OLS/SSI Fellows management, OLS-7 prep
+
+### What did you struggle with?
+
+* Emotions: had a low point and struggled to find energy to actually tick off some of the things
+
+### Any other topics
+
+* Took a day off! Seems harder to do with the set up, so proud that I officially blocked a day.
 
 ## Week: 6 February 2023
 
