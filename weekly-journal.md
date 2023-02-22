@@ -8,6 +8,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [30-01-2023](#week-30-january-2023)
 * [06-02-2023](#week-6-february-2023)
 * [13-02-2023](#week-13-february-2023)
+* [20-02-2023](#week-20-february-2023)
 
 
 ## 2022
@@ -21,7 +22,21 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
-# Template
+## Week: 20 February 2023
+
+### What brought you joy this week?
+
+* Dressing formally for the interview; should do less yoga trousers when working ;)
+
+### What did you achieve
+
+* Small bits: CollabW23 submission, helping out with an interview, starting another conference submission, more Art of Gathering
+
+### What did you struggle with?
+
+* Focus. Have been thrown off by last minute things happening and never deal well with that.
+
+
 
 ## Week: 13 February 2023
 
