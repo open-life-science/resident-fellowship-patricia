@@ -9,6 +9,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [06-02-2023](#week-6-february-2023)
 * [13-02-2023](#week-13-february-2023)
 * [20-02-2023](#week-20-february-2023)
+* [27-02-2023](#week-27-february-2023)
 
 
 ## 2022
@@ -21,6 +22,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 27 February 2023
+
+### What brought you joy this week?
+
+* First meeting with my OLS-7 mentee
+
+### What did you achieve
+
+* Some more Art of Gathering though I am behind with the practical exercises
+* Submitted a workshop to the Open Science Conference
+* Got myself somehow organised for OLS-7, co-facilitated some mentor onboardings
+* Some more fireside chat prep and promotion
+
+### What did you struggle with?
+
+* Started the week tired after travelling, so Monday felt overwhelming. Week picked up after that.
+
+### Any other topics
+
+* Book club is wrapping up today - really enjoyed reflections and discussions.
 
 ## Week: 20 February 2023
 
@@ -35,8 +57,6 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### What did you struggle with?
 
 * Focus. Have been thrown off by last minute things happening and never deal well with that.
-
-
 
 ## Week: 13 February 2023
 
