@@ -10,6 +10,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [13-02-2023](#week-13-february-2023)
 * [20-02-2023](#week-20-february-2023)
 * [27-02-2023](#week-27-february-2023)
+* [06-03-2023](#week-6-march-2023)
 
 
 ## 2022
@@ -22,6 +23,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 6 March 2023
+
+### What brought you joy this week?
+
+* Checking in with Mayya, very useful reflection time
+* In-person meeting with Anne!
+ 
+### What did you achieve
+
+* Caught up with Art of Gathering homework
+* Last mentor onboarding session
+* Some small bits
+
+### What did you struggle with?
+
+* Supported a one day conference on zoom - that is a lot of zoom time that I'm not used to any longer...
+* Tried to progress some promotional material, but couldn't for the life of me figure out how to edit that nicely.
+
+### Any other topics
+
+* This week was more around progressing consultancy while there are no urgent OLS deadlines. And it's been another week of waiting for the hot water to be fixed.
 
 ## Week: 27 February 2023
 
