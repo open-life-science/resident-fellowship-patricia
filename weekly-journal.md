@@ -11,6 +11,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [20-02-2023](#week-20-february-2023)
 * [27-02-2023](#week-27-february-2023)
 * [06-03-2023](#week-6-march-2023)
+* [13-03-2023](#week-13-march-2023)
 
 
 ## 2022
@@ -23,6 +24,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 13 March 2023
+
+### What brought you joy this week?
+
+* Many conversations about mentoring, really enjoyed doing the training again and then planning another onboarding session.
+* Having a bath now the hot water is back ;)
+
+### What did you achieve
+
+* Art of Gathering week 5
+* Meeting with my mentee
+* Several brainstorming sessions
+
+### What did you struggle with?
+
+* Guess what: time as there are quite a few things to do before having a break next week.
+
+### Any other topics
+
+* Made good progress with conference presentations, it's been a while.
 
 ## Week: 6 March 2023
 
