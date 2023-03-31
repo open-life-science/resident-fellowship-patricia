@@ -12,6 +12,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [27-02-2023](#week-27-february-2023)
 * [06-03-2023](#week-6-march-2023)
 * [13-03-2023](#week-13-march-2023)
+* [27-03-2023](#week-27-march-2023)
 
 
 ## 2022
@@ -24,6 +25,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 27 March 2023
+
+### What brought you joy this week?
+
+* Lovely catch-up with my mentee to start the week.
+* Good brainstorming with Yo to structure my messy thoughts.
+ 
+### What did you achieve
+
+* Fireside chat
+* Catching up with the last bits of Art of Gathering
+* More mentor onboarding planning
+* Emails for the session I'm in charge of
+
+### What did you struggle with?
+
+* All this did not fit into 7 hours as expected. Will take some time back over Easter.
+
+### Any other topics
+
+* Facilitated some other things with limited prep - good for confidence!
 
 ## Week: 13 March 2023
 
