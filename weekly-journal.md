@@ -13,6 +13,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [06-03-2023](#week-6-march-2023)
 * [13-03-2023](#week-13-march-2023)
 * [27-03-2023](#week-27-march-2023)
+* [03-04-2023](#week-03-april-2023)
 
 
 ## 2022
@@ -25,6 +26,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: 3 April 2023
+Note that this covers 2 weeks with a longer Easter break in between.
+
+### What brought you joy this week?
+
+* Having a break - recharging away from home with great company is important
+ 
+### What did you achieve
+
+* Slides for mentor onboarding
+* Various emails and other prep for OLS-7 week 9
+* Regular check-ins
+
+### What did you struggle with?
+
+* Feels like it was okay, I gave myself permission to do less during those weeks and that felt fine.
+
+### Any other topics
+
+* I bought tons of facilitation stuff and now need to figure out how to use it. Also thoughts about website hosting...
 
 ## Week: 27 March 2023
 
