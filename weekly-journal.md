@@ -13,7 +13,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [06-03-2023](#week-6-march-2023)
 * [13-03-2023](#week-13-march-2023)
 * [27-03-2023](#week-27-march-2023)
-* [03-04-2023](#week-03-april-2023)
+* [03-04-2023](#week-3-april-2023)
 
 
 ## 2022
