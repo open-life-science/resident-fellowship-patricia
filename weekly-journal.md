@@ -14,6 +14,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [13-03-2023](#week-13-march-2023)
 * [27-03-2023](#week-27-march-2023)
 * [03-04-2023](#week-3-april-2023)
+* [17-04-2023](#week-17-april-2023)
 
 
 ## 2022
@@ -26,6 +27,29 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+
+## Week: 17 April 2023
+
+### What brought you joy this week?
+
+* Running a 2 hour mentor onboarding session. Loved it, felt confident, audience was great. 
+ 
+### What did you achieve
+
+* Prep for the cohort call next week, emails went out to speakers, pad is ready, so this should be good to go.
+* Finally kicked off the consultancy slack channel!
+* Checking in with Mayya around the CW23 session, first draft of the slides for the session.
+* Some emails that have been on the to send list for quite a while.
+
+### What did you struggle with?
+
+* Had a bit of panic around hosting this week's cohort call (didn't end up doing it) and felt not on top of things.
+
+### Any other topics
+
+* Started using toggl to track time and I'm not sure yet if I find it helpful.
+* Doing a lot of thinking on the consultancy part of life and how it might look going forward.
 
 ## Week: 3 April 2023
 Note that this covers 2 weeks with a longer Easter break in between.
