@@ -15,6 +15,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [27-03-2023](#week-27-march-2023)
 * [03-04-2023](#week-3-april-2023)
 * [17-04-2023](#week-17-april-2023)
+* [24-04-2023](#week-24-april-2023)
 
 
 ## 2022
@@ -28,6 +29,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+
+## Week: 24 April 2023
+
+### What brought you joy this week?
+
+* A super interesting cohort call
+
+### What did you achieve
+
+* Prep for CollabW23 next week with Mayya
+* Good (last) 1-1 with Yo
+* Started the self-organised teams course
+* Checked in with my mentee 
+
+### What did you struggle with?
+
+* Didn't get everything done that I wanted as Friday isn't going so well.
+
+### Any other topics
+
+* I started fighting with Wordpress... let's see where this will go.
 
 ## Week: 17 April 2023
 
