@@ -16,6 +16,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [03-04-2023](#week-3-april-2023)
 * [17-04-2023](#week-17-april-2023)
 * [24-04-2023](#week-24-april-2023)
+* [08-05-2023](#week-8-may-2023)
 
 
 ## 2022
@@ -29,6 +30,27 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+
+## Week: 8 May 2023
+
+### What brought you joy this week?
+
+* Co-working to sort out my thoughts
+ 
+### What did you achieve?
+
+* Started finance onboarding and some reading of things
+* Mentee meeting and expert chat
+* A lot of small bits
+* Some more progress on self-organising teams
+
+### What did you struggle with?
+
+* With some extra time off, it felt a bit busy. Definitely low on energy towards the end of the week.
+
+### Any other topics
+
+Managed to join another oblique thinking hour which was fun.
 
 ## Week: 24 April 2023
 
