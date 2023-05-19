@@ -17,6 +17,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [17-04-2023](#week-17-april-2023)
 * [24-04-2023](#week-24-april-2023)
 * [08-05-2023](#week-8-may-2023)
+* [15-05-2023](#week-15-may-2023)
 
 
 ## 2022
@@ -30,6 +31,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+
+## Week: 15 May 2023
+
+### What brought you joy this week?
+
+* Getting a handle on finance stuff and actually be able to contribute and help.
+ 
+### What did you achieve
+
+* Got set up on various finance systems.
+* More onboarding meetings and actually paying stuff.
+* Prepped and led on cohort call.
+* Followed up on CW23 conversations and managed to structure thoughts in a way that made sense.
+* Some time to start reading on more facilitation things.
+
+### What did you struggle with?
+
+* Less energy due to cold. Felt not the most productive though I got a lot done.
+
+### Any other topics
+
+* Read a lot of stuff that needs some more written reflections. Need to make time and headspace for those.
 
 ## Week: 8 May 2023
 
