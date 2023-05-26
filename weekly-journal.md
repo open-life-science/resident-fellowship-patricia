@@ -18,6 +18,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [24-04-2023](#week-24-april-2023)
 * [08-05-2023](#week-8-may-2023)
 * [15-05-2023](#week-15-may-2023)
+* [22-05-2023](#week-22-may-2023)
 
 
 ## 2022
@@ -30,6 +31,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+
+## Week: 22 May 2023
+
+### What brought you joy this week?
+
+* Long catch-up with Mayya with lovely prompts to reflect.
+
+### What did you achieve
+
+* Met with my mentee
+* More finance onboarding, slightly wrapping my head around more things (or not, we'll see)
+* Fiscal sponorship chat
+* Well-being and self care cohort call attendance
+
+### What did you struggle with?
+
+* Some of the finance systems were not playing ball and very unclear in their error messages if there were any at all. One seems to be resolved, one still outstanding. Didn't seem the most productive week overall.
+
+### Any other topics
+
+* Finally managed to do some reading in the garden. More spring like weather is definitely helping with the mood.
 
 
 ## Week: 15 May 2023
