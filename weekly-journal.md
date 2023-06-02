@@ -19,6 +19,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [08-05-2023](#week-8-may-2023)
 * [15-05-2023](#week-15-may-2023)
 * [22-05-2023](#week-22-may-2023)
+* [29-05-2023](#week-29-may-2023)
 
 
 ## 2022
@@ -32,6 +33,24 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
 
+
+## Week: 29 May 2023
+
+### What brought you joy this week?
+
+* Loved today's co-working chats, I'm so glad we didn't cancel but I hosted that space. Not an easy conversation with straightforward to dos, but incredibly valuable.
+ 
+### What did you achieve
+
+* Not so sure, kept the finance stuff going.
+
+### What did you struggle with?
+
+* A lot and I need to do more reflection on why. It was not my best week.
+
+### Any other topics
+
+* Non-OLS things have progressed and seem under control, so at least not everything was bad.
 
 ## Week: 22 May 2023
 
