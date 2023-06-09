@@ -20,6 +20,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [15-05-2023](#week-15-may-2023)
 * [22-05-2023](#week-22-may-2023)
 * [29-05-2023](#week-29-may-2023)
+* [05-06-2023](#week-5-june-2023)
 
 
 ## 2022
@@ -32,6 +33,47 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [28-11-2022](#week-28-november-2022)
 * [05-12-2022](#week-5-december-2022)
 * [12-12-2022](#week-12-december-2022)
+
+## Week: [INSERT DATE OF FIRST DAY OF WEEK]
+
+### What brought you joy this week?
+
+* Replace this text with a one/two sentence description of who you helped this week and how.
+* 
+### What did you achieve
+
+* Replace this text with a bullet point list of what you achieved this week.
+
+### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+
+## Week: 5 June 2023
+
+### What brought you joy this week?
+
+* Puppy love
+* Figuring out a new and hopefully improved work set up
+ 
+### What did you achieve
+
+* 2 blogs - which is more than I have done in the whole year so far
+* Keeping payments going, sorting through some contract stuff.
+* Attend the RSE Skills event to do more thinking about skills and training. Wasn't sure about it at first, but turns out once the event started, I had strong opinions on stuff!
+
+### What did you struggle with?
+
+* Pain - less than last week, but still.
+* Frustration that blogging takes me so long.
+
+### Any other topics
+
+Felt like I did a lot of additional stuff this week and need to do some thinking again.
 
 
 ## Week: 29 May 2023
@@ -95,6 +137,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 * Read a lot of stuff that needs some more written reflections. Need to make time and headspace for those.
+
 
 ## Week: 8 May 2023
 
