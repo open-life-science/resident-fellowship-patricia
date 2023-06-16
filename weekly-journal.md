@@ -21,6 +21,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [22-05-2023](#week-22-may-2023)
 * [29-05-2023](#week-29-may-2023)
 * [05-06-2023](#week-5-june-2023)
+* [12-06-2023](#week-12-june-2023)
 
 
 ## 2022
@@ -40,7 +41,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 * Replace this text with a one/two sentence description of who you helped this week and how.
 * 
-### What did you achieve
+### What did you achieve?
 
 * Replace this text with a bullet point list of what you achieved this week.
 
@@ -52,6 +53,26 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 This space is yours to add to as needed.
 
+## Week: 12 June 2023
+
+### What brought you joy this week?
+
+* Graduations! Generally seeing all the amazing projects and especially the feedback from my mentee. Good to be reminded why we do this!
+ 
+### What did you achieve?
+
+* Kept payments going.
+* Started reconciliation and felt like I'm actually making a difference on finance things.
+* Final reflections on self-organising teams course.
+* Started thinking about the OLS non-cohort service offering.
+
+### What did you struggle with?
+
+* It was a quiet week, so it almost felt a little bit lonely. 
+
+### Any other topics
+
+* Sunshine and new desk made for a decent combination and overall happiness.
 
 ## Week: 5 June 2023
 
