@@ -22,6 +22,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [29-05-2023](#week-29-may-2023)
 * [05-06-2023](#week-5-june-2023)
 * [12-06-2023](#week-12-june-2023)
+* [19-06-2023](#week-19-june-2023)
 
 
 ## 2022
@@ -52,6 +53,29 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 19 June 2023
+
+### What brought you joy this week?
+
+* Maker space tour in the co-working: it's nice that you never quite know what will happen in that slot.
+ 
+### What did you achieve?
+
+* Paid a good chunck of the OLS7 honoraria, including using services that were new to me. Seemed to all work fine and learning new things felt good.
+* Check-in with Emmy.
+* Chasing missing receipts for reconciliation.
+* Some comms for OLS-8.
+* Progressing blogs, have them almost ready to go for next week.
+
+### What did you struggle with?
+
+* The micro managing side struggled towards the end of the week. Not entirely sure why I started feeling slightly lonely after a super productive start to the week.
+
+### Any other topics
+
+* Procrastinated on decision making.
+* Scheduled time to sit in the hammock before the weather turned.
 
 ## Week: 12 June 2023
 
