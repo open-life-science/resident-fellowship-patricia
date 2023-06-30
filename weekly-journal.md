@@ -23,6 +23,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [05-06-2023](#week-5-june-2023)
 * [12-06-2023](#week-12-june-2023)
 * [19-06-2023](#week-19-june-2023)
+* [26-06-2023](#week-26-june-2023)
 
 
 ## 2022
@@ -53,6 +54,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 26 June 2023
+
+### What brought you joy this week?
+
+* Governance discussions were interesting and just some time to properly catch up with Malvika
+* Self-care workshop on the weekend was very validating
+   
+### What did you achieve?
+
+* Paid most outstanding honoraria
+* Got both blog posts out of the door (somehow at least)
+* Started some more learning about accounting just to note that there's a lot of jargon I don't yet understand, so more to do in future.
+* Check in about our OLS/SSI fellows
+
+### What did you struggle with?
+
+* I just generally was so tired all week. Felt it made everything slower than it should have been.
+  
+### Any other topics
+
+* Wrapping up everything before going on holiday is a lot. 
 
 ## Week: 19 June 2023
 
