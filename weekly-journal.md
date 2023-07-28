@@ -24,6 +24,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [12-06-2023](#week-12-june-2023)
 * [19-06-2023](#week-19-june-2023)
 * [26-06-2023](#week-26-june-2023)
+* [23-07-2023](#week-23-july-2023)
 
 
 ## 2022
@@ -54,6 +55,28 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 24 July 2023
+
+### What brought you joy this week?
+
+* Lovely chat with Malvika catching up on things
+ 
+### What did you achieve?
+
+* Catch-up on inbox
+* Pick-up a few payments - almost done wrapping up OLS-7
+* Reviewing OLS-8 applications
+* Reviewing some governance docs that have been worked on while I was gone
+* Hosted part of co-working
+
+### What did you struggle with?
+
+* Getting back into the swing on things - felt like I was not on top of stuff this week.
+
+### Any other topics
+
+Wrapping up other things and starting new stuff adds additional stress and makes the summer slightly busier than expected.
 
 ## Week: 26 June 2023
 
