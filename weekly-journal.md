@@ -24,7 +24,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [12-06-2023](#week-12-june-2023)
 * [19-06-2023](#week-19-june-2023)
 * [26-06-2023](#week-26-june-2023)
-* [23-07-2023](#week-23-july-2023)
+* [24-07-2023](#week-24-july-2023)
 
 
 ## 2022
