@@ -25,6 +25,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [19-06-2023](#week-19-june-2023)
 * [26-06-2023](#week-26-june-2023)
 * [24-07-2023](#week-24-july-2023)
+* [31-07-2023](#week-31-july-2023)
 
 
 ## 2022
@@ -56,6 +57,30 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 
 This space is yours to add to as needed.
 
+## Week: 31 July 2023
+
+### What brought you joy this week?
+
+* Conversations with Emmy, Yo, and Malvika who are just smart and lovely people and provide great food for thought.
+ 
+### What did you achieve?
+
+* Donations - OLS7 honoraria are all sorted!
+* We submitted a proposal!
+* A lot of interesting reflections with Mayya.
+* Good chats about new potential opportunities, initial draft notes of what that could be.
+* Minor wrangling of Civi.
+* Joined a governance committee meeting, facilitated part of it.
+* Initial investigation of options to get donations for OLS.
+
+### What did you struggle with?
+
+* I'm so not quick at getting anything out of Civi. Need to do way more Civi work to get better at this.
+
+### Any other topics
+
+* Started a new thing. Trying to figure out new workload and rhythm while still enjoying some summer time off.
+  
 ## Week: 24 July 2023
 
 ### What brought you joy this week?
