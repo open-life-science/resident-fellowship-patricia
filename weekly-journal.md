@@ -26,6 +26,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [26-06-2023](#week-26-june-2023)
 * [24-07-2023](#week-24-july-2023)
 * [31-07-2023](#week-31-july-2023)
+* [07-08-2023](#week-7-august-2023)
 
 
 ## 2022
@@ -56,6 +57,29 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 7 August 2023
+
+### What brought you joy this week?
+
+* Some lovely Fringe shows - and I'm glad that I did take time off to enjoy them.
+ 
+### What did you achieve?
+
+* Some conclusion to the fundraising platform investigation.
+* Looking at swag platforms.
+* Kicking off the book club conversation.
+* Workplan for myself for the next months.
+* Proposal budget.
+
+### What did you struggle with?
+
+* Writing proposal text. Nothing in the document makes sense yet. Spradsheet > text.
+* Focus this week was hard.
+  
+### Any other topics
+
+* Still figuring out the new workload thing. Adapting habits is hard.
 
 ## Week: 31 July 2023
 
