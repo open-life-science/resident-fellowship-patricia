@@ -27,6 +27,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [24-07-2023](#week-24-july-2023)
 * [31-07-2023](#week-31-july-2023)
 * [07-08-2023](#week-7-august-2023)
+* [14-08-2023](#week-14-august-2023)
 
 
 ## 2022
@@ -57,6 +58,26 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 14 August 2023
+
+### What brought you joy this week?
+
+* My rainbow nails
+* Learning about all sorts in the team coffee chat
+ 
+### What did you achieve?
+
+* Getting the project proposal in a decent shape: there is now text and an updated budget.
+* Kicking off with microgrants and then hitting a roadblock pretty much immediately. 
+
+### What did you struggle with?
+
+* Making sense of why Civi broke and fixing it
+* Wrapping my head around a good way of tracking microgrants and not getting overwhelmed
+
+### Any other topics
+* Somehow this week felt busy but also not like much was achieved. Brain was fried on not much productive work.
 
 ## Week: 7 August 2023
 
