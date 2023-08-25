@@ -28,6 +28,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [31-07-2023](#week-31-july-2023)
 * [07-08-2023](#week-7-august-2023)
 * [14-08-2023](#week-14-august-2023)
+* [21-08-2023](#week-21-august-2023)
 
 
 ## 2022
@@ -58,6 +59,26 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 21 August 2023
+
+### What brought you joy this week?
+
+* Writing up a reflection blog for my Fellowship - quite happy with all the things that were achieved even if it sometimes didn't feel that way. Yay to me for keeping diary here - it was really helpful.
+ 
+### What did you achieve?
+
+* Unblocking Civi (well, Emmy did) and getting started on microgrants proper
+* Reconciliation
+* Application for Digital Communication Cohort
+  
+### What did you struggle with?
+
+* Energy levels and focus on Friday. Brain stuggles to plan for the next weeks without freaking out about things unnecessarily.
+
+### Any other topics
+
+* How did I end up having strong opinions about references?
 
 ## Week: 14 August 2023
 
