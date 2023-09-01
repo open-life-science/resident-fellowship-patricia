@@ -29,6 +29,7 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 * [07-08-2023](#week-7-august-2023)
 * [14-08-2023](#week-14-august-2023)
 * [21-08-2023](#week-21-august-2023)
+* [28-08-2023](#week-28-august-2023)
 
 
 ## 2022
@@ -59,6 +60,25 @@ This is inspired by Kirstie Whitaker's weekly reports and the encouragement from
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 28 August 2023
+
+### What brought you joy this week?
+
+* Catch-up with folks - it's always helpful to reflect together.
+ 
+### What did you achieve?
+
+* Microgrants - I do think they are on track
+* Proposal was sent
+* Small co-ordination bits around sorting the next contract, chasing purchase orders and moving the blog to GitHub
+
+### What did you struggle with?
+
+* Focus on priorities beyond the microgrants, felt a bit lost but chats helped providing some direction.
+
+### Any other topics
+* This is the end of my Resident Fellowship!!! You've been a good companion, diary. I will move to a new one for the next role though.
 
 ## Week: 21 August 2023
 
