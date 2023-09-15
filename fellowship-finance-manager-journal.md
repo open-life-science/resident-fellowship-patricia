@@ -2,6 +2,30 @@
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
+* [11-09-2023](#week-11-september-2023)
+
+## Week: 11 September 2023
+
+### What brought you joy this week?
+
+* Porridge - I did not completely crumble even when it got stressful.
+   
+### What did you achieve?
+
+* Reconciliation
+* More microgrants and payments
+* Facilitator onboarding session feedback
+* Governance input
+
+### What did you struggle with?
+
+* UK trains
+* Tackling the complex microgrant requests
+* Donor policy didn't happen
+
+### Any other topics
+
+* I'm out of brain capacity for this week, so no.
 
 ## Week: 4 September 2023
 
