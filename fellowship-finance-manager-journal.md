@@ -3,6 +3,28 @@
 ## 2023
 * [04-09-2023](#week-4-september-2023)
 * [11-09-2023](#week-11-september-2023)
+* [18-09-2023](#week-18-september-2023)
+
+## Week: 18 September 2023
+
+### What brought you joy this week?
+
+* Checking in with Yo
+ 
+### What did you achieve?
+
+* More microgrants - I'm almost on top of all of them
+* Reviewing some consultancy docs
+* Finally starting the costing and webpage for consultancy stuff - still more to do, but there's a spreadsheet and methodology of some kind.
+
+### What did you struggle with?
+
+* Took a while to work through the harder microgrants.
+* Focus in parts - not sure where a good place to provide input is.
+
+### Any other topics
+
+* It definitely felt like autumn arrived and I struggled to adapt.
 
 ## Week: 11 September 2023
 
