@@ -4,6 +4,28 @@
 * [04-09-2023](#week-4-september-2023)
 * [11-09-2023](#week-11-september-2023)
 * [18-09-2023](#week-18-september-2023)
+* [25-09-2023](#week-25-september-2023)
+
+## Week: 25 September 2023
+
+### What brought you joy this week?
+
+* Being helpful and unblocking people
+  
+### What did you achieve?
+
+* More microgrant stuff - almost there
+* Interim report help
+* Governance committee support
+
+### What did you struggle with?
+
+* Pain and thus focus, but it still seemed an ok week overall.
+
+### Any other topics
+
+* I need to find some time for reading. Haven't had mojo for that in September and it doesn't feel great!
+
 
 ## Week: 18 September 2023
 
