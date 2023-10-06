@@ -5,7 +5,33 @@
 * [11-09-2023](#week-11-september-2023)
 * [18-09-2023](#week-18-september-2023)
 * [25-09-2023](#week-25-september-2023)
+* [02-10-2023](#week-2-ocotber-2023)
 
+
+## Week: 2 October 2023
+
+### What brought you joy this week?
+
+* Catching up with folks in the co=working
+* "Boss bitch transformation"
+ 
+### What did you achieve?
+
+* Finance reporting
+* Getting OLS/SSI Fellow reviews kicked off
+* Some more small payment stuff, slow things take a lot of time sometimes!
+* Book club kick off admin
+* Facilitator sessions
+
+### What did you struggle with?
+
+* Had a few days where I wasn't feeling great, so those were slow and felt unproductive.
+* There are some tasks that I'm procrastinating on. But I asked for help to get them unstuck.
+
+### Any other topics
+
+* Looking forward to some time off and have the body recover from 2 weeks that were not fun.
+  
 ## Week: 25 September 2023
 
 ### What brought you joy this week?
