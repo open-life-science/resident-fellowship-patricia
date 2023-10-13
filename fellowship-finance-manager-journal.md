@@ -6,7 +6,28 @@
 * [18-09-2023](#week-18-september-2023)
 * [25-09-2023](#week-25-september-2023)
 * [02-10-2023](#week-2-ocotber-2023)
+* [09-10-2023](#week-9-october-2023)
 
+
+## Week: 9 October 2023
+
+### What brought you joy this week?
+
+* Check ins in dedicated meetings 
+ 
+### What did you achieve?
+
+* Fellow check-in prep
+* Catching-up on a lot of small things
+* Book club
+
+### What did you struggle with?
+
+* It was a short week, so the urgent stuff is probably covered and everything else is just book marked into a long to do list for the next weeks.
+
+### Any other topics
+
+* Our holiday didn't go as planned, so I'm probably less well rested than I hoped. Need to monitor to figure out how to keep energy going and where to take breaks.
 
 ## Week: 2 October 2023
 
