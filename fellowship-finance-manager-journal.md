@@ -7,7 +7,31 @@
 * [25-09-2023](#week-25-september-2023)
 * [02-10-2023](#week-2-ocotber-2023)
 * [09-10-2023](#week-9-october-2023)
+* [16-10-2023](#week-16-october-2023)
 
+
+## Week: 16 October 2023
+
+### What brought you joy this week?
+
+* Lovely SSI/OLS Fellow check-in
+* Unblocking something I've been procrastinating about for 3-4 weeks.
+ 
+### What did you achieve?
+
+* Chaired team meeting (almost on time)
+* Created some templates that should help with account reconciliation going forward.
+* All the reimbursements.
+* Paying and invoicing folk.
+* Reading a lot of small things that have been bookmarked for a while.
+
+### What did you struggle with?
+
+* Getting the reading for the book club done - why is it so much harder when it's one I actually suggested?!
+
+### Any other topics
+
+* Getting to a point where the overall work balance seems to work out - so that's good. Feeling ready to reflect and prep for 2024 already, maybe it's the stormy weather that makes me want to curl up and think.
 
 ## Week: 9 October 2023
 
