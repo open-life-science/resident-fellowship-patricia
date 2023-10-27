@@ -8,6 +8,28 @@
 * [02-10-2023](#week-2-ocotber-2023)
 * [09-10-2023](#week-9-october-2023)
 * [16-10-2023](#week-16-october-2023)
+* [23-10-2023](#week-23-october-2023)
+
+
+## Week: 23 October 2023
+### What brought you joy this week?
+
+* Another Fellows mid-term review and co-working - it's just lovely to catch up with folks
+
+### What did you achieve?
+
+* Catching up and tidying a lot of the microgrant and finance bits, tons of small things making sure everything is up to date in various systems
+* Updating the microgrant policy
+* Some Ally Skills promotional bits
+ 
+### What did you struggle with?
+
+* Understanding budgeting for UKRI and where I can help with that proposal.
+* Staring at a few more finance bits unsure what to do.
+
+### Any other topics
+
+* I took an afternoon off! Hopefully getting into a rhythm where I don't feel I have to catch up on everything and take a regular breather.
 
 
 ## Week: 16 October 2023
