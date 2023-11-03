@@ -9,7 +9,27 @@
 * [09-10-2023](#week-9-october-2023)
 * [16-10-2023](#week-16-october-2023)
 * [23-10-2023](#week-23-october-2023)
+* [30-10-2023](#week-30-october-2023)
 
+## Week: 30 October 2023
+
+### What brought you joy this week?
+
+* Slow governance meeting that allowed my brain to catch up
+* Small co-working call that allowed for some nice chat
+ 
+### What did you achieve?
+
+* Catching up on honoraria and other payments
+* Reconciliation
+
+### What did you struggle with?
+
+* Felt a bit tired and unmotivated this week - change in clocks is noticable and I'm trying to prep for winter. Also trying to wrap my head around the fact that getting through a short-ish to do list is still good.
+
+### Any other topics
+
+* Not at the moment.
 
 ## Week: 23 October 2023
 ### What brought you joy this week?
