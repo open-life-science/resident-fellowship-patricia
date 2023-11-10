@@ -10,6 +10,28 @@
 * [16-10-2023](#week-16-october-2023)
 * [23-10-2023](#week-23-october-2023)
 * [30-10-2023](#week-30-october-2023)
+* [06-11-2023](#week-6-november-2023)
+
+## Week: 6 November 2023
+
+### What brought you joy this week?
+
+* Playing with my cards and thinking about OLS team reflections. Aligned chats in the co-working session. Unexpected amounts of sunshine.
+ 
+### What did you achieve?
+
+* Reconciliation (again) - sorting receipts and preparing reimbursements.
+* Regular payments, invoicing.
+* Accounting and reporting training and reflections on processes.
+* Some Ally Skills workshop prep.
+
+### What did you struggle with?
+
+* Don't feel quite as prepared for next week as I'd like, trying not to micromanage.
+
+### Any other topics
+
+* Felt like I progressed some life admin this week. Still too tired and looking forward to a longer break.
 
 ## Week: 30 October 2023
 
