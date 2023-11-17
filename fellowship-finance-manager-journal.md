@@ -11,6 +11,29 @@
 * [23-10-2023](#week-23-october-2023)
 * [30-10-2023](#week-30-october-2023)
 * [06-11-2023](#week-6-november-2023)
+* [13-11-2023](#week-13-november-2023)
+
+## Week: 13 November 2023
+
+### What brought you joy this week?
+
+* Putting the OLS team reflection thoughts into practice.
+ 
+### What did you achieve?
+
+* Keep payments going
+* Turing SPA project reporting
+* Supporting the Ally Skills workshop without having a nervous breakdown
+* Finally looking at some of the governance docs that have been on the to do list - not sure I contributed much though
+
+### What did you struggle with?
+
+* Feeling not well prepared and like an impostor for the Ally Skills session.
+* There are still finance things that trip me up - nothing that can't be sorted somehow though.
+
+### Any other topics
+
+* Busy week - didn't stress out too much I think but definitely ran a bit out of steam on Friday...
 
 ## Week: 6 November 2023
 
