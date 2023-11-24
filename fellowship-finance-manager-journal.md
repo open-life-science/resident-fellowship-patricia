@@ -12,6 +12,28 @@
 * [30-10-2023](#week-30-october-2023)
 * [06-11-2023](#week-6-november-2023)
 * [13-11-2023](#week-13-november-2023)
+* [20-11-2023](#week-20-november-2023)
+
+## Week: 20 November 2023
+
+### What brought you joy this week?
+
+* Reflecting about team retro aspects and my personal user manual.
+ 
+### What did you achieve?
+
+* Kept payments going.
+* Did a round of updates for microgrant admin.
+* Wrapped up the book club, kinda.
+* Some more Ally Skills promotion and liaising with Esther around the next workshop and setting up documents.
+
+### What did you struggle with?
+
+* Identifying any goals - feels like I'm pretty aimless within OLS.
+
+### Any other topics
+
+* Book club reflection: it seems incredibly hard to get people to commit to a regular schedule and getting any engagement. While I love the idea, definitely not worth the time and effort and even I struggled to do the regular reading and having smart thoughts. Such a shame though, I did enjoy the book club that worked but need to figure out something else for the future.
 
 ## Week: 13 November 2023
 
