@@ -13,6 +13,48 @@
 * [06-11-2023](#week-6-november-2023)
 * [13-11-2023](#week-13-november-2023)
 * [20-11-2023](#week-20-november-2023)
+* [27-11-2023](#week-27-november-2023)
+
+
+## Week: [INSERT DATE OF FIRST DAY OF WEEK]
+
+### What brought you joy this week?
+
+* Replace this text with a one/two sentence description of who you helped this week and how.
+* 
+### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+
+### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+## Week: 27 November 2023
+
+### What brought you joy this week?
+
+* Quiet Friday co-working, sunshine.
+ 
+### What did you achieve?
+
+* Reconciliation
+* Supporting Ally Skills (gratitute to Esther for doing the bulk here when I wasn't feeling great)
+* Regular payments
+* Governance committee meeting
+* Some team retro and grant reporting and investigating of options that wasn't necessary in the end
+
+### What did you struggle with?
+
+* Energy levels at the start of the week - body let me down there.
+
+### Any other topics
+
+Not this time.
 
 ## Week: 20 November 2023
 
