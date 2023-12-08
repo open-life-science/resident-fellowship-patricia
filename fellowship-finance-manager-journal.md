@@ -14,6 +14,7 @@
 * [13-11-2023](#week-13-november-2023)
 * [20-11-2023](#week-20-november-2023)
 * [27-11-2023](#week-27-november-2023)
+* [04-12-2023](#week-4-december-2023)
 
 
 ## Week: [INSERT DATE OF FIRST DAY OF WEEK]
@@ -33,6 +34,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 4 December 2023
+
+### What brought you joy this week?
+
+* Honest conversations and things that seemed to be issues in my head being validated. Not sure it's joy, but it's good overall.
+ 
+### What did you achieve?
+
+* Catching up on a long list of regular payments
+* Governance meeting and some admin ahead and after
+* Some more reconciliation, invoice updates, budget reviews
+* Fellows blog process updates
+* Conference abstract review
+* Some website update planning
+
+### What did you struggle with?
+
+* Motivation was an issue at the start of the week, it got a bit better as I plotted on and things got done. 
+
+### Any other topics
+
+It's cold season, so I just focus on resting when needed and getting to the end of the year.
 
 ## Week: 27 November 2023
 
