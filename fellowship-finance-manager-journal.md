@@ -15,6 +15,7 @@
 * [20-11-2023](#week-20-november-2023)
 * [27-11-2023](#week-27-november-2023)
 * [04-12-2023](#week-4-december-2023)
+* [11-12-2023](#week-11-december-2023)
 
 
 ## Week: [INSERT DATE OF FIRST DAY OF WEEK]
@@ -34,6 +35,30 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 11 December 2023
+
+### What brought you joy this week?
+
+* Some time to write up my personal user manual - felt helpful
+* Not sure if joy is the right word, but the OLS team retro meeting was very useful.
+ 
+### What did you achieve?
+
+* Regular payments
+* Exploring Xero and getting a better understanding how to use it for reporting
+* Participatory budgeting webinar
+* Hosting the co-working
+* Pitching a consultancy offer on supporting a mentorship programme, discussing it with Malvika and getting that written up
+
+### What did you struggle with?
+
+* Tiredness, motivation - definitely looking forward to the end of the year.
+
+### Any other topics
+
+* Launched personal consultancy website and ticked off a major item on the 2023 to do list.
+* Managed day time walks!
 
 ## Week: 4 December 2023
 
