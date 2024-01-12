@@ -1,5 +1,8 @@
 # Weekly journal
 
+## 2024
+* [08-01-2024](#week-8-january-2024)
+
 ## 2023
 * [04-09-2023](#week-4-september-2023)
 * [11-09-2023](#week-11-september-2023)
@@ -35,6 +38,26 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 8 January 2024
+
+### What brought you joy this week?
+
+* Getting NASA certified in 20 minutes - good to know that I still have the knowledge :)
+ 
+### What did you achieve?
+
+* Picking up payments after the break
+* Getting finance spreadsheets for the accountants ready to be approved/checked by Emmy
+* Picking up suggestions from the team retro and starting an initial plan
+
+### What did you struggle with?
+
+* Focus beyond the big finance tasks, a lot of tiny things that I remembered and I'm not quite sure how they fit yet.
+
+### Any other topics
+
+It's kind of nice for everyone to be back again and to tackle 2024.
 
 ## Week: 11 December 2023
 
