@@ -2,6 +2,7 @@
 
 ## 2024
 * [08-01-2024](#week-8-january-2024)
+* [15-01-2024](#week-15-january-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -38,6 +39,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 15 January 2024
+
+### What brought you joy this week?
+
+* Co-working was very wholesome. Talking socks, being supportive without taking over and getting more reading recommendations (when will I manage to read all the things?!)
+* Some of the 1:1 conversations about things to come in 2024. Super exciting and a little bit scary in the right (?!) way 
+ 
+### What did you achieve?
+
+* Getting reconciliation and unassigned transactions back to PEM.
+* All the microgrant receipt reminders for OLS-8 and making sure we're ready for honoraria
+* Looking at invoicing and payment approval workflows. More work needed, but start made.
+* Finance check-in.
+* Some prep for some of the 2024 tasks.
+
+### What did you struggle with?
+
+* Focus at times. And still felt like it took a bit to get back into 2024 and figure out what needs doing.
+
+### Any other topics
+
+It felt like a busy week overall with consultancy having something happen every day. Definitely felt like this distracted the focus on some days.
 
 ## Week: 8 January 2024
 
