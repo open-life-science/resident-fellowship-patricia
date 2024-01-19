@@ -1,9 +1,8 @@
 # Welcome!
 
-This is the repository to help me develop my OLS fellowship.
+This started as a repository to help me develop my OLS fellowship and be as transparent as possible in what I do.
 
-I will use it mainly for project management and it is very much work in progress.
-However, I started it to be as transparent as possible.
+While changing roles in OLS, I kept it to continue my weekly reports summarizing what I have worked on.
 
 
 ## Roadmap
