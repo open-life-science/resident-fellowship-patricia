@@ -3,6 +3,7 @@
 ## 2024
 * [08-01-2024](#week-8-january-2024)
 * [15-01-2024](#week-15-january-2024)
+* [22-01-2024](#week-22-january-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -27,7 +28,7 @@
 ### What brought you joy this week?
 
 * Replace this text with a one/two sentence description of who you helped this week and how.
-* 
+ 
 ### What did you achieve?
 
 * Replace this text with a bullet point list of what you achieved this week.
@@ -39,6 +40,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 22 January 2024
+
+### What brought you joy this week?
+
+* Thinking about tasks for 2024 in a slightly more strategic way.
+ 
+### What did you achieve?
+
+* Sort through a lot of microgrant receipts.
+* Start paying honoraria for OLS-8
+* Reviewing several conference abstracts
+* Catching up on fiscal sponsorship discussions
+* Going through aged payables
+* Figure out finance to dos for the next few weeks.
+
+### What did you struggle with?
+
+* Energy levels at the start of the week were not great. And time wasn't quite enough to get everything done this week.
+
+### Any other topics
+
+2024 started really busy, hope it calms down a bit so I can start to think a bit more. Reminder to myself to take leave and make sure there are breaks.
 
 ## Week: 15 January 2024
 
