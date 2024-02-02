@@ -4,6 +4,7 @@
 * [08-01-2024](#week-8-january-2024)
 * [15-01-2024](#week-15-january-2024)
 * [22-01-2024](#week-22-january-2024)
+* [29-01-2024](#week-29-january-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -22,7 +23,6 @@
 * [04-12-2023](#week-4-december-2023)
 * [11-12-2023](#week-11-december-2023)
 
-
 ## Week: [INSERT DATE OF FIRST DAY OF WEEK]
 
 ### What brought you joy this week?
@@ -40,6 +40,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 29 January 2024
+
+### What brought you joy this week?
+
+* Doing some promotion for things! I enjoyed it, even if it felt slow getting things published.
+* Checking in with Mayya in the co-working.
+ 
+### What did you achieve?
+
+* Sorting more microgrant receipts.
+* Paying more honoraria.
+* Governance committee work
+* Reconciliation
+* Get some small team check-ins scheduled.
+
+### What did you struggle with?
+
+* Nothing obvious comes to mind. It was a good week, I got through the immediate to do list.
+
+### Any other topics
+
+Attended a great workshop on the weekend. And had a week that was less busy to catch up on things.
 
 ## Week: 22 January 2024
 
