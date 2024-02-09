@@ -5,6 +5,7 @@
 * [15-01-2024](#week-15-january-2024)
 * [22-01-2024](#week-22-january-2024)
 * [29-01-2024](#week-29-january-2024)
+* [05-02-2024](#week-5-february-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -40,6 +41,30 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 5 February 2024
+
+### What brought you joy this week?
+
+* Chatting in co-working
+ 
+### What did you achieve?
+
+* More honoraria payments
+* Some invoices and more microgrant chasing
+* OLS/SSI Fellows comms around finance deadlines
+* OLS-8 retro
+* Governance committee conversations
+* Some thinkin/writing about OLS mentorship support
+
+### What did you struggle with?
+
+* Plenty of thoughts about finance workflows that could be improved without an immediate idea of when they can be tackled.
+* Why do periods before leave always feel extra busy?
+
+### Any other topics
+
+Started the week very tired and low on energy, looking forwarad to a break. January was looooong.
 
 ## Week: 29 January 2024
 
