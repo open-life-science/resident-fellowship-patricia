@@ -6,6 +6,7 @@
 * [22-01-2024](#week-22-january-2024)
 * [29-01-2024](#week-29-january-2024)
 * [05-02-2024](#week-5-february-2024)
+* [19-02-2024](#week-19-february-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -41,6 +42,30 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 19 February 2024
+
+### What brought you joy this week?
+
+* Listening to Tracy Chapman. Private slack conversations validating my struggles.
+ 
+### What did you achieve?
+
+* Paid people, even if it took much longer than it should have.
+* Discussing mentorship offerings
+* Sorting some invoices and catching up on many small finance things
+* NASA finance conversation
+* Pinging people for the governance meeting next week
+* Some reconciliation and aged payables.
+
+### What did you struggle with?
+
+* Paying people. Some transfers hit issues and setting up alternatives didn't work as I hoped.
+* Time! This week was all over the place. 
+
+### Any other topics
+
+It was a week! Pretty much on every level. Not what I expected after a week away, but I survived!
 
 ## Week: 5 February 2024
 
