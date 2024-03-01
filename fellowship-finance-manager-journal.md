@@ -7,6 +7,7 @@
 * [29-01-2024](#week-29-january-2024)
 * [05-02-2024](#week-5-february-2024)
 * [19-02-2024](#week-19-february-2024)
+* [26-02-2024](#week-26-february-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -33,7 +34,8 @@
  
 ### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
+
+
 
 ### What did you struggle with?
 
@@ -42,6 +44,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 26 February 2024
+
+### What brought you joy this week?
+
+* Small, cosy co-working.
+* Amelie soundtrack in team coffee.
+ 
+### What did you achieve?
+
+* Reimbursements.
+* Some prep for microgrants and nanogrant reimbursements.
+* Made a start on reconciliation and chasing receipts.
+* Governance committee.
+* Starting to chat handover with Emmy.
+* Started Turing Way budget work.
+* Small bits around mutual support, buying an article for Mayya, updating automated email messages.
+
+### What did you struggle with?
+
+* Feels like a lot of things ended up being half-baked - definitely a bit of feeling overwhelmed and not feeling like having enough time to do all the things.
+
+### Any other topics
+
+* Looking at the list of things I've done: I was productive but I also feel incredibly tired and like it wasn't a good week.
 
 ## Week: 19 February 2024
 
