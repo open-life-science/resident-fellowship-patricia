@@ -8,6 +8,7 @@
 * [05-02-2024](#week-5-february-2024)
 * [19-02-2024](#week-19-february-2024)
 * [26-02-2024](#week-26-february-2024)
+* [04-03-2024](#week-4-march-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -44,6 +45,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 4 March 2024
+
+### What brought you joy this week?
+
+* Visiting Malvika! Good food, awesome weather and just chatting. Not so much working, but sometimes you just need to hang out with your colleagues.
+ 
+### What did you achieve?
+
+* Some handover with Emmy: Fringe and benefits
+* Kicked of contacting NASA microgrant folks
+* A rambly 1:1 with Yo
+* Checking in with Reina on her SSI/OLS plans and outstanding payments
+* Honoraria catch-up, regular payments, some reconciliation work
+
+### What did you struggle with?
+
+* Definitely ran out of time to do NASA things which are kind of time sensitive. But at least ended up with a plan for prioroties for next week.
+
+### Any other topics
+
+Yay for making time to catch up with folks and seeing the bands you love live. And sunshine.
 
 ## Week: 26 February 2024
 
