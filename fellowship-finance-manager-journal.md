@@ -9,6 +9,7 @@
 * [19-02-2024](#week-19-february-2024)
 * [26-02-2024](#week-26-february-2024)
 * [04-03-2024](#week-4-march-2024)
+* [11-03-2024](#week-11-march-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -45,6 +46,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 11 March 2024
+
+### What brought you joy this week?
+
+* Grant reporting is surprisingly fun
+ 
+### What did you achieve?
+
+* Progressed NASA microgrants
+* Meeting with lawyers
+* Turing SPA budget 
+* More handover with Emmy
+* Catalyst reporting
+
+### What did you struggle with?
+
+* Felt a bit stressed and overwhelmed overall and behind schedule.
+
+### Any other topics
+
+* Miserable weather is not helping this week.
 
 ## Week: 4 March 2024
 
