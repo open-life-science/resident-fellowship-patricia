@@ -10,6 +10,7 @@
 * [26-02-2024](#week-26-february-2024)
 * [04-03-2024](#week-4-march-2024)
 * [11-03-2024](#week-11-march-2024)
+* [18-03-2024](#week-18-march-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -46,6 +47,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 18 March 2024
+
+### What brought you joy this week?
+
+* Listening to the co-working discussion on publishing a paper. Constructive review discussion about this week.
+ 
+### What did you achieve?
+
+* Almost all NASA microgrants sorted.
+* More handover discussion with Emmy
+* Mayya workshop follow ups
+* Honoraria payments
+* Team meeting
+* Catalyst microgrant review
+
+### What did you struggle with?
+
+* Microgrants were stressful and complicated this week and ate almost all of the time. General energy levels being low did not help. This was a tough week across the board.
+
+### Any other topics
+
+The weather is miserable, too. Really could do with some spring feeling.
 
 ## Week: 11 March 2024
 
