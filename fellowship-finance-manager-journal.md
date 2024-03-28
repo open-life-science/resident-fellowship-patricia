@@ -11,6 +11,7 @@
 * [04-03-2024](#week-4-march-2024)
 * [11-03-2024](#week-11-march-2024)
 * [18-03-2024](#week-18-march-2024)
+* [25-03-2024](#week-25-march-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -47,6 +48,30 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 25 March 2024
+
+### What brought you joy this week?
+
+* Slow team coffee chat.
+ 
+### What did you achieve?
+* Last handover with Emmy 😭
+* Regular payments
+* Last of the NASA microgrants
+* Final version of Turing SPA budget (still to be coordintated with accountants)
+* Started reconciliation
+* Attended governance committee
+* Started a NASA budget
+* First leadership conversations
+
+### What did you struggle with?
+
+* Time and brain capacity - what a surprise. Energy levels and weather.
+
+### Any other topics
+
+* Other stuff is going ok at least. But so looking forward to a slower May.
 
 ## Week: 18 March 2024
 
