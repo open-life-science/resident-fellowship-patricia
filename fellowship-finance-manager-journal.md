@@ -12,6 +12,7 @@
 * [11-03-2024](#week-11-march-2024)
 * [18-03-2024](#week-18-march-2024)
 * [25-03-2024](#week-25-march-2024)
+* [01-04-2024](#week-1-april-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -48,6 +49,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 1 April 2024
+
+### What brought you joy this week?
+
+* Not sure, this week so far was a struggle and I felt disconnected.
+ 
+### What did you achieve?
+
+* Sorted some contract stuff for the lawyers.
+* Wrapped up Turing SPA budget.
+* Regular payments.
+* Some more NASA microgrants stuff.
+
+### What did you struggle with?
+
+* Tried to make time for time off and the other job, so felt like there was no time to get involved in discussions properly.
+* Just general brain capacity, feels like there's too much on.
+ 
+### Any other topics
+
+* Weather was horrible, and health scare to start the week did not help.
 
 ## Week: 25 March 2024
 
