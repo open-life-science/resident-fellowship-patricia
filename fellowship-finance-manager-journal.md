@@ -13,6 +13,7 @@
 * [18-03-2024](#week-18-march-2024)
 * [25-03-2024](#week-25-march-2024)
 * [01-04-2024](#week-1-april-2024)
+* [08-04-2024](#week-8-april-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -50,6 +51,27 @@
 
 This space is yours to add to as needed.
 
+## Week: 8 April 2024
+
+### What brought you joy this week?
+
+* Quiet-ish co-working and actually getting something done with Malvika. Picking up rest cards again.
+ 
+### What did you achieve?
+* Regular payments.
+* Open Seeds 9 brainstorming and initial budget options.
+* Finally getting some things to the accountants, even if not quite perfect yet: reconciliation, unassigned transactions, salary allocations.
+* Some more work understanding the NASA budget.
+* SSI/OLS Fellowship budget overview and planning final to dos.
+
+### What did you struggle with?
+
+* Felt a bit stuck on a few things and I'm unsure how to get unstuck. Busy week after a busy-ish weekend so I hope some rest/lazy weekend might help. 
+  
+### Any other topics
+
+* Where's spring? And also why is the wind back?
+  
 ## Week: 1 April 2024
 
 ### What brought you joy this week?
