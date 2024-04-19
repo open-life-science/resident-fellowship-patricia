@@ -14,6 +14,7 @@
 * [25-03-2024](#week-25-march-2024)
 * [01-04-2024](#week-1-april-2024)
 * [08-04-2024](#week-8-april-2024)
+* [15-04-2024](#week-15-april-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -41,8 +42,6 @@
 ### What did you achieve?
 
 
-
-
 ### What did you struggle with?
 
 * Replace this text with a bullet point list of where you struggled this week.
@@ -50,6 +49,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 15 April 2024
+
+### What brought you joy this week?
+
+* Co-working chat: lovely to vent and just hear interesting thoughts from people
+ 
+### What did you achieve?
+* Some more regular payments.
+* Last review to release Resident Fellow post.
+* Equipment manifest update.
+* Started NASA invoicing.
+* Some fiscal sponsorship thinking.
+* Write a to-do list for all the small, lower priority tasks that need doing and tend to get forgotten.
+
+### What did you struggle with?
+
+* A lot of frustration that very little actually got properly ticked off and upcoming business means a lot of this will drag out quite a while. General stuckness feeling continues.
+
+### Any other topics
+
+* Big event delviery for the other job coming up. Will wind down OLS work for the next two weeks. 
 
 ## Week: 8 April 2024
 
