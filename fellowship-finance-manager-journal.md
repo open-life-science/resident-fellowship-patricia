@@ -15,6 +15,7 @@
 * [01-04-2024](#week-1-april-2024)
 * [08-04-2024](#week-8-april-2024)
 * [15-04-2024](#week-15-april-2024)
+* [06-05-2024](#week-6-may-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -49,6 +50,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 6 May 2024
+
+### What brought you joy this week?
+
+* 1-1 with Yo and trying to make sense of the mess that is my brain at the moment.
+ 
+### What did you achieve?
+* Some tax bits
+* Some thoughts and catching up on new proposals including creating and reviewing plenty of budgets
+* Wellcome budget check-in
+* Some regular payments
+* Some more progress on NASA invoicing
+* Some fiscal sponsorship thoughts that need to be followed up properly
+
+### What did you struggle with?
+
+* Might have been a little bit overwhelmed with figuring out where to start after some time away.
+
+### Any other topics
+
+It's nice to be back :) And spring finally seems here
 
 
 ## Week: 15 April 2024
