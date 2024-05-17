@@ -16,6 +16,7 @@
 * [08-04-2024](#week-8-april-2024)
 * [15-04-2024](#week-15-april-2024)
 * [06-05-2024](#week-6-may-2024)
+* [13-05-2024](#week-13-may-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -50,6 +51,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 13 May 2024
+
+### What brought you joy this week?
+
+* I like the co-working chats :) - usually good reflections with people and occassionally, we get some stuff done.
+ 
+### What did you achieve?
+* Several invoices and paper work for fiscal sponsorship, still need to document that properly
+* Microgrant reminders
+* Nebula cohort retro
+* Budget drafts for several proposals
+* Budget report draft for Wellcome
+
+### What did you struggle with?
+
+* Time/capacity - surprise!
+* There's one really difficult task that I procrastinated on
+  
+### Any other topics
+
+Weather is finally nice! 
 
 ## Week: 6 May 2024
 
