@@ -17,6 +17,7 @@
 * [15-04-2024](#week-15-april-2024)
 * [06-05-2024](#week-6-may-2024)
 * [13-05-2024](#week-13-may-2024)
+* [20-05-2024](#week-20-may-2024)
 
 ## 2023
 * [04-09-2023](#week-4-september-2023)
@@ -51,6 +52,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 20 May 2024
+
+### What brought you joy this week?
+
+* Slow co-working chats when I didn't have tons of energy was nice
+ 
+### What did you achieve?
+* Regular payments, salary approvals
+* Attempt 1 at sorting taxes
+* More invoices for fiscal sponsorship
+* Picking up some of Yo's conversations
+* Attending the Edinburgh BioFAIR showcase and it was ok
+* Government contract ready training and some thinking about strategy and value
+* Progressing the contract to get Bethan on board
+
+### What did you struggle with?
+
+* Too much to do and not enough time and generally meh energy levels, procrastinated on the big NASA invoice and definitely need to tackle that next week.
+  
+### Any other topics
+
+Weather has turned absolutely miserable :( 
 
 ## Week: 13 May 2024
 
