@@ -2,6 +2,7 @@
 
 ## 2024
 * [27-05-2024](#week-27-may-2024)
+* [03-06-2024](#week-3-june-2024)
 
 ## Template
 
@@ -22,6 +23,32 @@
 
 This space is yours to add to as needed.
 
+
+## Week: 3 June 2024
+
+### What brought you joy this week?
+
+* Onboarding Bethan! It's lovely to have someone to check my thoughts and processes and keep me organised! 
+ 
+### What did you achieve?
+* Some cleaning up of Emmy's legacy accounts while setting up Bethan
+* 2 chats with staff to scope chief of staff work
+* Reading terms and conditions and pushing one contract forward
+* Some follow up on conversations from last week
+* Pushing some hiring organising forward
+* Some regular payments
+* Fiscal sponsorship process reflection with Rowland
+* 1-1 with Yo
+* Governance committee follow up
+* Some microgrant inbox tidying 
+
+### What did you struggle with?
+
+* Definitely ended up tired and low on energy at the end of the week. Still feel behind on a lot of things.
+
+### Any other topics
+
+* Almost wrapped up CW24! Big pieces are out of the way for a bit at least and I'm close to wrapping up something else. So looking forward to quieter weeks and some recovery.
 
 ## Week: 27 May 2024
 
