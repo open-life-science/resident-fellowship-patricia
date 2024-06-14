@@ -3,6 +3,7 @@
 ## 2024
 * [27-05-2024](#week-27-may-2024)
 * [03-06-2024](#week-3-june-2024)
+* [10-06-2024](#week-10-june-2024)
 
 ## Template
 
@@ -23,6 +24,31 @@
 
 This space is yours to add to as needed.
 
+
+
+
+## Week: 10 June 2024
+
+### What brought you joy this week?
+
+* Hosting co-working: it's a great reminder that it's a valuable space for people.
+ 
+### What did you achieve?
+* More Bethan onboarding and exploring of new finance processes
+* Some of the outstanding payments
+* Preparing DRA Fellows recruitment next steps
+* Another chief of staff check in conversation
+* Reconciliation
+* Updates to our accountants
+
+### What did you struggle with?
+
+* Definitely didn't get any forecasting done. Backlog is so big that tasks take so long now and create issues that need not be there if I managed things in a more timely manner. 
+* Not feeling bad about just working my hours even if that means the backlog isn't going down the way I might want it to.
+
+### Any other topics
+
+* I finally managed a day off! And used it to binge Traitors US season 2 in 24h 😂...
 
 ## Week: 3 June 2024
 
