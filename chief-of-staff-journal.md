@@ -4,6 +4,7 @@
 * [27-05-2024](#week-27-may-2024)
 * [03-06-2024](#week-3-june-2024)
 * [10-06-2024](#week-10-june-2024)
+* [17-06-2024](#week-17-june-2024)
 
 ## Template
 
@@ -25,7 +26,26 @@
 This space is yours to add to as needed.
 
 
+## Week: 17 June 2024
 
+### What brought you joy this week?
+
+* Managed to tick off a few items from the to do list. Bethan's personal user manual is beautiful to read.
+ 
+### What did you achieve?
+
+* A lot of small item catch-ups and updates for the accountants: equipment, PAYE, salary allocations, etc.
+* Training "Finance for non-financial managers"
+* DRA Fellow interviews
+* Finished onboarding with Bethan
+
+### What did you struggle with?
+
+* A lot. General energy and motivation. Feeling inadequate and not in the right place and I don't know if it's just because I need a break or more than that.
+
+### Any other topics
+
+* Good news about getting to attend RSECon - need to figure out how that aligns with what I want to do in general. Getting closer to wrap some of the other things up that have cost a lot energy.
 
 ## Week: 10 June 2024
 
