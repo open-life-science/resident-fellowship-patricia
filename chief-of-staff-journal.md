@@ -5,6 +5,7 @@
 * [03-06-2024](#week-3-june-2024)
 * [10-06-2024](#week-10-june-2024)
 * [17-06-2024](#week-17-june-2024)
+* [24-06-2024](#week-24-june-2024)
 
 ## Template
 
@@ -24,6 +25,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 24 June 2024
+
+### What brought you joy this week?
+
+* Attended a call on Remote Team Cohesion and it was validating how difficult this is across the board.
+* NASA invoice was paid!
+* Finally might be on the right salary
+ 
+### What did you achieve?
+* Catch-up with the accountants and I kind of understood what they were asking
+* Last Open Seeds Fellow interview
+* Governance committee reflection call
+* Bethan 1-1
+* Fiscal Sponsorship actions
+* Finally writing up the Fiscal Sponsorship processes as I have managed them so far
+* Externalising some of the finance backlogs
+
+### What did you struggle with?
+
+* General energy levels and trying to keep the brain from losing track on all the things, so ready for a holiday.
+
+### Any other topics
+
+* Managed tons of feedback calls for the SSI Fellowship
+* Wrangled GitHub for a CW24 write up - almost ready to wrap that up!
 
 
 ## Week: 17 June 2024
