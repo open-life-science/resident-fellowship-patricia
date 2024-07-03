@@ -6,6 +6,7 @@
 * [10-06-2024](#week-10-june-2024)
 * [17-06-2024](#week-17-june-2024)
 * [24-06-2024](#week-24-june-2024)
+* [01-07-2024](#week-1-july-2024)
 
 ## Template
 
@@ -27,6 +28,33 @@
 This space is yours to add to as needed.
 
 
+
+## Week: 1 July 2024
+
+### What brought you joy this week?
+
+* Slack reflections on dealing with low energy weeks
+ 
+### What did you achieve?
+* Submitted Wellcome finance report
+* Submitted next NASA invoice
+* DRA Fellow debrief and contract offer
+* 1-1 with Bethan making sure she's set up to cover the next few weeks
+* Review budgets for ongoing grant proposals
+* SSI contract follow up
+* Reviewing resident fellowship write up
+* Fiscal sponsorship report
+* Director retreat prep
+* To do list write up/wind down for holidays
+
+### What did you struggle with?
+
+* Motivation to do more than was needed before the break. Definitely more on the do less and recharge side than being super busy before the break.
+
+### Any other topics
+
+* Working on better boundaries to ensure things can stay sustainable going forward.
+  
 ## Week: 24 June 2024
 
 ### What brought you joy this week?
