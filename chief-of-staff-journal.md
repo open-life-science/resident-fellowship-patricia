@@ -7,6 +7,7 @@
 * [17-06-2024](#week-17-june-2024)
 * [24-06-2024](#week-24-june-2024)
 * [01-07-2024](#week-1-july-2024)
+* [22-07-2024](#week-22-july-2024)
 
 ## Template
 
@@ -27,7 +28,32 @@
 
 This space is yours to add to as needed.
 
+## Week: 22 July 2024
 
+### What brought you joy this week?
+
+* Starting to move things to GitHub and reducing the bus factor a little bit
+ 
+### What did you achieve?
+* Lots of catching up on inboxes and writing a decent to do list
+* Some Wellcome reporting follow ups 
+* Some PAYE follow ups
+* Governance committee meeting
+* Check-in with Bethan
+* Reading Paz's paper
+* A lot of small-ish catch-ups after the holidays
+* Noting down some reflections on the last few months in the new role
+
+### What did you struggle with?
+
+* Figuring out the correct salary for myself
+* General overwhelm at coming back to a long to do list after holidays
+* Feeling slow and unproductive: managed only a small part of my to do list and had to go beyond the contracted time
+
+### Any other topics
+* Low energy week, feels like I need holiday again.
+* Liked the small, quiet co-working to help think through RSE Worldwide overwhelm
+* Trying to work on a general healthier work life balance, let's see how that works out.
 
 ## Week: 1 July 2024
 
