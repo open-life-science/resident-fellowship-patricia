@@ -8,6 +8,7 @@
 * [24-06-2024](#week-24-june-2024)
 * [01-07-2024](#week-1-july-2024)
 * [22-07-2024](#week-22-july-2024)
+* [29-07-2024](#week-29-july-2024)
 
 ## Template
 
@@ -27,6 +28,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 29 July 2024
+
+### What brought you joy this week?
+
+* Check-in meeting with the SSI around consultancy
+* Retro with Yo
+ 
+### What did you achieve?
+* PAYE has been submitted by our accountants
+* Reconciliation including several minor follow ups and more closing out of microgrants
+* Setting up spreadsheets for tracking NASA finances troughout year 2
+
+### What did you struggle with?
+
+* Still blocked on the Wellcome budget but way to move this next week
+* Motivation and focus on other tasks, brain struggled with things
+
+### Any other topics
+
+* Better at sticking to days off and making use of the sunny weather and reading in the sunshine.
+* Need to get a grip on RSECon prep next week!
 
 ## Week: 22 July 2024
 
