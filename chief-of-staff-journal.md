@@ -9,6 +9,7 @@
 * [01-07-2024](#week-1-july-2024)
 * [22-07-2024](#week-22-july-2024)
 * [29-07-2024](#week-29-july-2024)
+* [05-08-2024](#week-5-august-2024)
 
 ## Template
 
@@ -28,6 +29,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 5 August 2024
+
+### What brought you joy this week?
+
+* Chat with another Chief of staff at a small org: interesting insights but also, there's sooo much to learn and do
+ 
+### What did you achieve?
+* Wellcome report submitted
+* Next NASA invoice and updated budget documentation
+* UK honoraria tracking spreadsheet
+* Several small chasing and scheduling tasks
+* Proposal review with Malvika
+* Finance risk register
+
+### What did you struggle with?
+
+* Pushed plenty of things to next week again - struggling to figure out how long things take when plenty of new things pop up throughout the week.
+
+### Any other topics
+
+Getting better at keeping to days off and enjoying some of the Fringe.
 
 ## Week: 29 July 2024
 
