@@ -10,6 +10,7 @@
 * [22-07-2024](#week-22-july-2024)
 * [29-07-2024](#week-29-july-2024)
 * [05-08-2024](#week-5-august-2024)
+* [12-08-2024](#week-12-august-2024)
 
 ## Template
 
@@ -29,6 +30,32 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 12 August 2024
+
+### What brought you joy this week?
+
+* Talking about pens during co-working :) and ideas on making good use of time during our team meeting
+ 
+### What did you achieve?
+* A lot of meeting scheduling and reshuffling
+* Discussing how we might ensure our honoraria info is up to date
+* Brainstorming finance sprint more
+* Meeting our new PEM contact
+* Sorting some unusual honoraria and staff onboarding tasks
+* RSEAUNZ FSP update
+* OSCARS grant prep discussions
+* 1-1 with Yo and Bethan
+* WIP on Catalyst reporting and budget tracking
+* WIP on processes around closing out old grants
+
+### What did you struggle with?
+
+* Quite a few things got pushed again as new tasks popped up. Getting slightly better at not feeling bad about this and creating more realistic to do lists. WIP.
+
+### Any other topics
+
+RSECon seems to be progressing ok. And I'm better at boundaries and days off.
 
 ## Week: 5 August 2024
 
