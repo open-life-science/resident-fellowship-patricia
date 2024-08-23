@@ -11,6 +11,7 @@
 * [29-07-2024](#week-29-july-2024)
 * [05-08-2024](#week-5-august-2024)
 * [12-08-2024](#week-12-august-2024)
+* [19-08-2024](#week-19-august-2024)
 
 ## Template
 
@@ -30,6 +31,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 19 August 2024
+
+### What brought you joy this week?
+
+* Wrangling Xero by myself
+ 
+### What did you achieve?
+* Grant budget rework
+* Sort some FSC bits just for others to pop up
+* Hopefully last round of Wellcome reporting
+* More SSI work scoping
+* Governance committee 
+* Team meeting
+* Probably more small things that I forgot.
+
+### What did you struggle with?
+
+* Time! And abandoned a lot of tasks for next week when they ended up being more complex than they initially looked. Also didn't feel great during the second half of the week which made everything harder.
+
+### Any other topics
+
+Goal in sight for RSECon24 org work! 
 
 ## Week: 12 August 2024
 
