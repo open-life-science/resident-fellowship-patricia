@@ -12,6 +12,7 @@
 * [05-08-2024](#week-5-august-2024)
 * [12-08-2024](#week-12-august-2024)
 * [19-08-2024](#week-19-august-2024)
+* [26-08-2024](#week-26ugust-2024)
 
 ## Template
 
@@ -31,6 +32,28 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 26 August 2024
+
+### What brought you joy this week?
+
+* Quiet time to catch up on a few things.
+ 
+### What did you achieve?
+* Reconciliation
+* Set up Humanitix so we can get money
+* Companies house filing
+* DRA Canada budget tracking and catch up
+* SSI mentorship coworking
+* 1-1 with Yo, leadership catch up
+
+### What did you struggle with?
+
+* Brain overload: noticed I missed things on GitHub and there are too many slack pings.
+
+### Any other topics
+
+How is RSECon already next week. And I'm not prepped :(.
 
 ## Week: 19 August 2024
 
