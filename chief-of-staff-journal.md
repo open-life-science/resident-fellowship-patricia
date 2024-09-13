@@ -12,7 +12,8 @@
 * [05-08-2024](#week-5-august-2024)
 * [12-08-2024](#week-12-august-2024)
 * [19-08-2024](#week-19-august-2024)
-* [26-08-2024](#week-26ugust-2024)
+* [26-08-2024](#week-26-august-2024)
+* [09-09-2024](#week-9-september-2024)
 
 ## Template
 
@@ -32,6 +33,32 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 9 September 2024
+
+### What brought you joy this week?
+
+* Joining the facilitator onboarding session: wasn't super prepared but felt happy improvising and hanging out with the OLS community.
+ 
+### What did you achieve?
+* Planning the finance policy sprint: I have a handbook table of contents and some of the items even link to content!
+* A lot of meeting prep: preparing a proper retro/professional development discussion with Bethan, preparing for chairing the team meeting
+* I met my coach! Interesting experience and looking forward to learning more.
+* 1-1 with Bethan and then Yo, team coffee
+* Unassigned transactions
+* A lot of budget reallocation and staring at spreadsheets.
+* Some more Catalyst financial reporting
+* Some catching up and planning of SSI4 work.
+
+### What did you struggle with?
+
+* Thought I could progress finance policy more than I thought and then hit a budget issue that felt more urgent.
+* Potentially spent a lot of time on small untangible bits.
+
+### Any other topics
+
+RSECon24 is over. Not sure about large in-person conferences and their benefit to me. But means there are less things to chase.
+Having more time to catch up on OLS things so far seems really helpful, brain feels less stressed when things don't go quite to plan.
 
 ## Week: 26 August 2024
 
