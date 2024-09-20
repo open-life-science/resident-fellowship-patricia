@@ -14,6 +14,7 @@
 * [19-08-2024](#week-19-august-2024)
 * [26-08-2024](#week-26-august-2024)
 * [09-09-2024](#week-9-september-2024)
+* [16-09-2024](#week-16-september-2024)
 
 ## Template
 
@@ -33,6 +34,40 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 16 September 2024
+
+### What brought you joy this week?
+
+* Moving the office to the garden for some tasks to make the most of some nice weather.
+* Good news on some of the proposals we have been working on.
+ 
+### What did you achieve?
+
+* Some more Wellcome reporting follow up, prepping a retro
+* Professional development chat with Bethan
+* Preparing and chairing the team meeting
+* Another SSI catch up meeting
+* Starting to schedule training for SSI mentors
+* Starting on the honoraria tracking spreadsheet
+* Reimbursement for Debs
+* A few bits on invoicing for fiscal sponsorship
+* Reconciliation
+* Hosting the co-working
+* Kicking off some offboarding GitHub issues
+* Read up on CZI reporting, deadlines
+* Fighting Stripe
+* Some more sections for the finance handbook
+* Reviving an idea on a core reading list for OLS
+
+### What did you struggle with?
+
+* Felt like the backlog isn't getting smaller and the additional time is just used to tackle new issues that pop up. 
+
+### Any other topics
+
+Really enjoyed a few days of nice weather and ending work early to make time for reading in the garden.
 
 ## Week: 9 September 2024
 
