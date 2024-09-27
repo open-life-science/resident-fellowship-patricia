@@ -15,6 +15,7 @@
 * [26-08-2024](#week-26-august-2024)
 * [09-09-2024](#week-9-september-2024)
 * [16-09-2024](#week-16-september-2024)
+* [23-09-2024](#week-23-september-2024)
 
 ## Template
 
@@ -35,6 +36,31 @@
 
 This space is yours to add to as needed.
 
+## Week: 23 September 2024
+
+### What brought you joy this week?
+
+* Interesting discussions around neurodiversity and confirmation that all my banging on about user manuals is going the right direction - even if there is still plenty to learn and improve.
+ 
+### What did you achieve?
+* Labeled the right finance inbox properly
+* Lots of attempts at scheduling things - and then learning why date polls fail
+* Fiscal sponsorship: more invoicing and proper catch up and reporting
+* Closing out some old grants with the accountants
+* Governance committee meeting
+* Some progress on the finance handbook: three more sections written, a few more progressing with the background info to get there next week
+* Some project reflection: more to dos that need to be recorded properly
+* 1-1 with Yo
+* Some support for Bethan working through microgrants
+
+### What did you struggle with?
+
+* Didn't tackle the big backlog task. Recognising that I'm making progress even if there's still plenty to do.
+* Procrastinated on a few other things when energy was low at the start of the week.
+
+### Any other topics
+
+Scottish autumn weather is all over the place. And I'm really struggling to become a 7h work day person.
 
 ## Week: 16 September 2024
 
