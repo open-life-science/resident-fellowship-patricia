@@ -16,6 +16,7 @@
 * [09-09-2024](#week-9-september-2024)
 * [16-09-2024](#week-16-september-2024)
 * [23-09-2024](#week-23-september-2024)
+* [30-09-2024](#week-30-september-2024)
 
 ## Template
 
@@ -35,6 +36,30 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 30 September 2024
+
+### What brought you joy this week?
+
+* A break from finance things to deep dive into SSI consultancy docs. It was nice to do something else and feel somehow knowledgable.
+ 
+### What did you achieve?
+* Big frog task: Go through all unassigned transactions and unblock budgets going forward.
+* 1-1 with Bethan and Yo
+* Leadership check-in
+* Spontanously creating a draft annual budget
+* Scheduled SSI 360 Training
+* Exploring some travel policies
+* Preparing meeting notes and sorting thoughts on budgets and to a degree also fiscal sponsorship
+* Updated all OLS team meetings until the end of the year
+* Added various sections of the finance handbook
+
+### What did you struggle with?
+
+* Felt not great energy wise as there was a potential cold coming on most of the time. Still feel that I'm not sure I'm overall on track.
+
+### Any other topics
+Wrote a blog - another item that has been pushed for ages and it's finally done.
 
 ## Week: 23 September 2024
 
