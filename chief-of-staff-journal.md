@@ -17,6 +17,7 @@
 * [16-09-2024](#week-16-september-2024)
 * [23-09-2024](#week-23-september-2024)
 * [30-09-2024](#week-30-september-2024)
+* [07-10-2024](#week-7-october-2024)
 
 ## Template
 
@@ -36,6 +37,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 7 October 2024
+
+### What brought you joy this week?
+
+* Co-working: small group of familiars just checking in <3
+ 
+### What did you achieve?
+* Reviewed agreements for new collaborations
+* Some admin support for the new grant
+* 1-1s with Bethan and Yo
+* Closing out more historic grants with PEM
+* Meeting with lawyers for consultancy agreements for people working with us a lot
+* Chair team meeting (badly)
+* Sort mileage process
+* Some more parts of the finance handbook
+* Paying people
+* SSI4 check in meeting
+* Crowdsourcing some help around the Ally Skills training
+
+### What did you struggle with?
+
+* Being sick this week and not quite as much progress as I hoped but things are in a place where I can be away for a bit.
+
+### Any other topics
+
+Managed quite a few other things: taxes and peer review for a paper!
 
 ## Week: 30 September 2024
 
