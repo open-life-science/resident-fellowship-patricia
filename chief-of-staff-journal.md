@@ -18,6 +18,7 @@
 * [23-09-2024](#week-23-september-2024)
 * [30-09-2024](#week-30-september-2024)
 * [07-10-2024](#week-7-october-2024)
+* [21-10-2024](#week-21-october-2024)
 
 ## Template
 
@@ -37,6 +38,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 21 October 2024
+
+### What brought you joy this week?
+
+* Nothing being on fire for once ;)
+ 
+### What did you achieve?
+
+* Catching up after a week off
+* Team meeting
+* Scheduling and logistics for SSI4 training
+* Reconciliation
+* Quite a few honoraria payments and updating various spreadsheets to capture things
+* Feedback on someone's Fellowship plans
+* Kicking off some OLS conference planning for 2025
+* Support an OLS-9 call
+* Accountant catch-up meetings
+* Range of small things: buying licences, filling registration forms for fiscal sponsorship etc.
+* Plenty of meeting pushing and prep
+
+### What did you struggle with?
+
+* Didn't quite manage to progress and unblock the handbook as much as I hoped. Definitely had some low energy days where less was achieved.
+
+### Any other topics
+
+Spent some time on other things: RSECon24 is now fully wrapped up. SSI Fellowship selection will take some effort during November.
 
 ## Week: 7 October 2024
 
