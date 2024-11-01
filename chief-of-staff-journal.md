@@ -19,6 +19,7 @@
 * [30-09-2024](#week-30-september-2024)
 * [07-10-2024](#week-7-october-2024)
 * [21-10-2024](#week-21-october-2024)
+* [28-10-2024](#week-28-october-2024)
 
 ## Template
 
@@ -38,6 +39,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 28 October 2024
+
+### What brought you joy this week?
+
+* Finding some motivation to get some more handbook sections written and receiving Wellcome money
+ 
+### What did you achieve?
+* Get equipment to Doaa
+* Pay honoraria
+* 1-1s with Bethan and Yo
+* Fiscal sponsorship brainstorm
+* Governance committee meeting
+* Catching up on NASA invoicing and financing
+* Review consultant contract
+* Some admin for SSI contract and training organisation
+* Poking people to create back ups and make OLS more resilient
+* Co-working with good reflections on big issues and mutual support
+* Starting closing out Wellcome (finally)
+* [to come] OLS9 informal catch-up
+
+### What did you struggle with?
+
+* Really was low on motivation at the start of the week and felt stuck.
+
+### Any other topics
+
+Took some time off to meet up with a former colleague in person and it was so good. Also did boss bitch transformation. Felt like I'm getting to a good balance hopefully.
 
 ## Week: 21 October 2024
 
