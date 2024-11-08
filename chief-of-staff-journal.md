@@ -20,6 +20,7 @@
 * [07-10-2024](#week-7-october-2024)
 * [21-10-2024](#week-21-october-2024)
 * [28-10-2024](#week-28-october-2024)
+* [04-11-2024](#week-4-november-2024)
 
 ## Template
 
@@ -39,6 +40,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 4 November 2024
+
+### What brought you joy this week?
+
+* Lovely The Hum session reflecting on cultural synergies.
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* Budget meeting
+* Wellcome close out with PEM
+* Plenty of new budget overviews
+* Humanitix unlocking with Stripe
+* Some liaison on the upcoming Ally Skills workshop
+* Honoraria policy updates
+* Reimbursements
+* Risk register update
+
+### What did you struggle with?
+
+* Tried to do normal hours. Failed and still didn't get as much done as I wanted.
+
+### Any other topics
+
+Well, the world went to shambles. Tried to focus on the bits I can affect.
 
 ## Week: 28 October 2024
 
