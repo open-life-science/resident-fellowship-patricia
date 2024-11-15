@@ -21,6 +21,7 @@
 * [21-10-2024](#week-21-october-2024)
 * [28-10-2024](#week-28-october-2024)
 * [04-11-2024](#week-4-november-2024)
+* [11-11-2024](#week-11-november-2024)
 
 ## Template
 
@@ -40,6 +41,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 11 November 2024
+
+### What brought you joy this week?
+
+* Mentorship training and progressing the collaboration with SSI - feels like I actually have skills in that area.
+ 
+### What did you achieve?
+* Keep honoraria payments going
+* Leadership contingency planning
+* Team meeting
+* Catching up on budgets
+* Ally skills training prep
+* Equipment manifest updates and check with PEM
+* Chief of Staff check-in
+
+### What did you struggle with?
+
+* Stuck to 30% of time this week and managed only a part of I wanted to. Doesn't feel quite as bad though as it did before.
+
+### Any other topics
+
+Finally managed to do the RSECon transcript and hopefully am all done now! 
+Managed some good work-life balance and reading I hope.
 
 ## Week: 4 November 2024
 
