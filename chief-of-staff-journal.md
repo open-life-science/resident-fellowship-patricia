@@ -22,6 +22,7 @@
 * [28-10-2024](#week-28-october-2024)
 * [04-11-2024](#week-4-november-2024)
 * [11-11-2024](#week-11-november-2024)
+* [18-11-2024](#week-18-november-2024)
 
 ## Template
 
@@ -42,6 +43,35 @@
 
 This space is yours to add to as needed.
 
+
+## Week: 18 November 2024
+
+### What brought you joy this week?
+
+* Non OLS: SSI Fellow selection meeting
+* OLS: Helpful coaching session and reflection discussions with Malvika and Yo
+ 
+### What did you achieve?
+* Catching up with accountants around tax questions
+* Spending down CZI and getting ready for reporting
+* Noting down some ideas for costs around payments as a service
+* Preparing the Ally Skills session
+* Cancelling the Ally Skills session
+* Creating a template to streamline organising future Ally Skills trainings
+* Drafting contract (amendments) for Bethan and Malvika
+* Sending out mentor certificates
+* Updating budget spreadsheets in line with recent discussions
+* Starting reconciliation
+* Some honoraria payments, invoice issuing etc.
+* Catching up with Irene around NASA budgets
+
+### What did you struggle with?
+
+* Guess what: time! And that was with some tasks being cancelled and freeing up some time.
+
+### Any other topics
+
+Figured a decent balance on days off to make time for good food and reading.
 
 ## Week: 11 November 2024
 
