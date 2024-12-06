@@ -23,6 +23,7 @@
 * [04-11-2024](#week-4-november-2024)
 * [11-11-2024](#week-11-november-2024)
 * [18-11-2024](#week-18-november-2024)
+* [02-12-2024](#week-2-december-2024)
 
 ## Template
 
@@ -43,6 +44,29 @@
 
 This space is yours to add to as needed.
 
+
+## Week: 2 December 2024
+
+### What brought you joy this week?
+
+* Visiting family
+ 
+### What did you achieve?
+* Catalyst finance reporting
+* Catching up on inboxes
+* Finalizing an old payment
+* Checking Xero reports
+* Prepping meetings with Bethan
+* Leadership catch-up
+* Small things: advent calendar post review, finalize contracts, pinging team about holiday spreadsheet
+
+### What did you struggle with?
+
+* Struggling with motivation and energy after being back from some leave. 
+
+### Any other topics
+
+Was unsuccessful with an application which is fine. Food for thought for the annual reflection I started with Sarah.
 
 ## Week: 18 November 2024
 
