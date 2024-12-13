@@ -24,6 +24,7 @@
 * [11-11-2024](#week-11-november-2024)
 * [18-11-2024](#week-18-november-2024)
 * [02-12-2024](#week-2-december-2024)
+* [09-12-2024](#week-9-december-2024)
 
 ## Template
 
@@ -44,6 +45,33 @@
 
 This space is yours to add to as needed.
 
+
+## Week: 9 December 2024
+
+### What brought you joy this week?
+
+* Seeing the new SSI Fellows announced.
+ 
+### What did you achieve?
+* 1-1s with Bethan and Yo
+* Meeting preparations for team retro and next year
+* Finance check-in to get us started ok in 2025
+* PEM follow ups to correct data
+* Signed new contracts for myself and Bethan
+* Reconciliation
+* Minor updates to the finance handbook in line with things that have changed recently
+* Unblocked Stripe
+* Governance committee meeting
+* SSI catch-up
+* Hosted informal catch-up for OLS-9
+
+### What did you struggle with?
+
+* Felt there are a lot of tasks left/coming up that I'm not keen on and that combined with darkness affects motivation.
+
+### Any other topics
+
+Got lovely Christmas mail. 
 
 ## Week: 2 December 2024
 
