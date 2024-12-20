@@ -25,6 +25,7 @@
 * [18-11-2024](#week-18-november-2024)
 * [02-12-2024](#week-2-december-2024)
 * [09-12-2024](#week-9-december-2024)
+* [16-12-2024](#week-16-december-2024)
 
 ## Template
 
@@ -45,6 +46,30 @@
 
 This space is yours to add to as needed.
 
+
+## Week: 16 December 2024
+
+### What brought you joy this week?
+
+* Gratitude exercise with Yo and Malvika. And a lovely RSECon24 thanks surprise package.
+* Christmassy nails
+ 
+### What did you achieve?
+* CZI reporting (almost done, took a whole day) 
+* Facilitated team year retro
+* Paid all the outstanding things in the inbox and all honoraria and followed up on some microgrants so everyone has at least a status update before the break
+* Bethan 1-1
+* Catching up on CZI Masterclass plans
+* Some SSI4 follow ups
+
+### What did you struggle with?
+
+* Well, turns out I still don't understand Xero, so all the money I thought I had found wasn't there. Caught it before any report was sent and I do have ideas how to fix it, but gosh it's frustrating.
+* Last day felt stressful with a full to do list.
+
+### Any other topics
+
+Nope, just glad I made it to the end of 2024.
 
 ## Week: 9 December 2024
 
