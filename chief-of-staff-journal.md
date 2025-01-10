@@ -1,5 +1,8 @@
 # Weekly journal
 
+## 2025
+* [06-01-2025](#week-6-january-2025)
+
 ## 2024
 * [27-05-2024](#week-27-may-2024)
 * [03-06-2024](#week-3-june-2024)
@@ -46,6 +49,31 @@
 
 This space is yours to add to as needed.
 
+## Week: 6 January 2025
+
+### What brought you joy this week?
+
+* SSI Fellows mentor matching. It's hard and an art rather than a science but we created a really good first draft and it was fun brainstorming.
+ 
+### What did you achieve?
+* Figuring out where we left off and checking a lot of inboxes and assigning/clearing out tasks
+* Catching up on budgets and where we left off, more queries to the accountants
+* Meeting rescheduling
+* Some more prep for outstanding honoraria payments
+* Attended a governance committee check-in meeting
+* 1-1 with Yo
+* OSPARK budget dive in, tracking prep, projections
+* Some goal setting for 2025
+
+### What did you struggle with?
+
+* Busy schedules mean my day off isn't a day off for a while as it's the only option for some meetings :(
+* Felt a bit all over the place and with no clear plan
+* Not quite sure about my skills - again
+
+### Any other topics
+
+* Kicked off some conversations around consultancy
 
 ## Week: 16 December 2024
 
