@@ -2,6 +2,7 @@
 
 ## 2025
 * [06-01-2025](#week-6-january-2025)
+* [13-01-2025](#week-13-january-2025)
 
 ## 2024
 * [27-05-2024](#week-27-may-2024)
@@ -48,6 +49,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 13 January 2025
+
+### What brought you joy this week?
+
+* Thinking about learning objectives and ways out of the finance funk I'm in.
+ 
+### What did you achieve?
+* Reconciliation
+* 1-1 with Bethan
+* 1-1 with Yo
+* Catch up with CS&S
+* Catch up with our lawyers about consultancy agreements for our mentors etc.
+* Team meeting
+* Budget meeting
+* Leadership catch-up
+* Coaching call
+* Prep meeting with accountants next week
+* Hosting some co-working
+* Deeeep dive into NASA budget: prepping invoices (to some degree), doing some projections, identifying areas that need more work and scheduling that
+* Catch-up with accountants on salaries and upcoming NI changes
+* Some minor things trying to manage calendars and shuffle meetings around.
+
+### What did you struggle with?
+
+* Didn't get to a few things I had on my initial to do list because the NASA budgets take so much more work and time.
+* Husband was sick, so general energy levels in the house were not quite there.
+
+### Any other topics
+
+* We're in the process of buying a house! It's a mix of extra stress and getting excited about all the possibilities.
 
 ## Week: 6 January 2025
 
