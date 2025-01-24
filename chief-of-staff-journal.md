@@ -3,6 +3,7 @@
 ## 2025
 * [06-01-2025](#week-6-january-2025)
 * [13-01-2025](#week-13-january-2025)
+* [20-01-2025](#week-20-january-2025)
 
 ## 2024
 * [27-05-2024](#week-27-may-2024)
@@ -49,6 +50,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 20 January 2025
+
+### What brought you joy this week?
+
+* OLS9 graduations!
+ 
+### What did you achieve?
+Surviving I guess? It was not a good week
+
+* Meeting with PEM
+* Follow up emails on budgets with PEM
+* Bethan 1-1
+* Governance committee member check in
+* Team meeting
+* NASA invoices are now so close to ready!
+* Nebula finance meeting
+* Trying to understand LinkedIn Ads
+* Read the OLS impact paper
+* Sorted reassignment of most travel
+* Some small follow ups with the SSI
+
+### What did you struggle with?
+
+* Energy! Got a pretty bad cold and I'm not good at being sick. Should probably have taken time off but battled through just to then crash and be not great at some tasks. Having to do additional firefighting and ending the week with a red weather warning storm did not help.
+
+### Any other topics
+
+Nope - just glad this week is over.
 
 ## Week: 13 January 2025
 
