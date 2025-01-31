@@ -4,6 +4,7 @@
 * [06-01-2025](#week-6-january-2025)
 * [13-01-2025](#week-13-january-2025)
 * [20-01-2025](#week-20-january-2025)
+* [27-01-2025](#week-27-january-2025)
 
 ## 2024
 * [27-05-2024](#week-27-may-2024)
@@ -50,6 +51,32 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 27 January 2025
+
+### What brought you joy this week?
+
+* I liked the OLS-9 cohort reflections, felt like it was a good conversation.
+ 
+### What did you achieve?
+* Sent NASA invoices
+* NASA budget updates
+* Governance meeting
+* Team meeting
+* Bethan 1-1
+* Some accountant follow ups - still need to dig into some aspects to update CZI reporting
+* Help answer some invoicing queries
+* Review some of Bethan's documentation
+* Salary projections
+* Attend a PDR session on Principles of Negotiation
+
+### What did you struggle with?
+
+* Well, international politics hit hard this week and required some last minute shuffling of things. Feels like it's less of an issue though than it would have been a few months ago - I'm getting more used to dealing with s***. It costs overall energy though.
+
+### Any other topics
+
+Hopefully unblocking some house stuff this weekend. Still a bit sick. Overall not a fan of January 2025.
 
 ## Week: 20 January 2025
 
