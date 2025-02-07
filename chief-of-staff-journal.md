@@ -5,6 +5,7 @@
 * [13-01-2025](#week-13-january-2025)
 * [20-01-2025](#week-20-january-2025)
 * [27-01-2025](#week-27-january-2025)
+* [03-02-2025](#week-3-february-2025)
 
 ## 2024
 * [27-05-2024](#week-27-may-2024)
@@ -51,6 +52,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 3 February 2025
+
+### What brought you joy this week?
+
+* Many meetings that were deep conversations with really, really useful input to reflect on. Plus the weather was fine most of the time, so it felt like overall one of the best weeks in a long time.
+ 
+### What did you achieve?
+* A lot of executive meeting time.
+* 1-1 with Bethan
+* Catching up with some of the last minor bits of the CZI budget, it might be ready for submission now.
+* Deep dive into salary allocations, double checking all of OLS's historic allocations and figuring out how to do better going forward
+* Answering finance questions for a fellow
+* Trying to balance the depressing news from the US/world
+
+### What did you struggle with?
+
+* There's still a lot of uncertainty, trying to prepare for quickly shifting things to keep going in the upcoming weeks.
+ 
+### Any other topics
+
+* Doing a small, short term consultancy project which should be fun.
+* Also, we have a mortgage offer.
 
 ## Week: 27 January 2025
 
