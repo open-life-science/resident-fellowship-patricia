@@ -2,6 +2,7 @@
 
 ## 2025
 * [10-02-2025](#week-10-february-2025)
+* [17-02-2025](#week-17-february-2025)
 
 
 ## Template
@@ -23,6 +24,30 @@
 
 This space is yours to add to as needed.
 
+## Week: 17 February 2025
+
+### What brought you joy this week?
+
+* Seeing our big NASA invoices getting paid
+ 
+### What did you achieve?
+* NASA finance reporting
+* Next round of NASA invoices - trying to grab as much money as possible
+* Hosted a team meeting on risk registers (semi-prepared)
+* 1-1 with Bethan
+* Monthly check in with our accountant and some more back and forth to understand data
+* Salary allocations
+* Review some more OLS-9 graduations
+* CZI final report writing
+* A lot of small emails chasing people and following up on things
+
+### What did you struggle with?
+
+* Quite a few meetings didn't happen and my brain isn't the best at switching from "I'm prepared for all the meetings" to just quietly work - so not sure how productive I was.
+
+### Any other topics
+
+Delivered a really nice workshop as freelancer. Huge impostor syndrome about getting it right, turns out, I should probably do more of this.
 
 ## Week: 10 February 2025
 
