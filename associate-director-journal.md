@@ -3,6 +3,7 @@
 ## 2025
 * [10-02-2025](#week-10-february-2025)
 * [17-02-2025](#week-17-february-2025)
+* [24-02-2025](#week-24-february-2025)
 
 
 ## Template
@@ -23,6 +24,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 24 February 2025
+
+### What brought you joy this week?
+
+* CZI report is submitted!
+ 
+### What did you achieve?
+
+* 1-1 with Bethan
+* HMRC and tax paperwork
+* CW25 sponsorship follow ups
+* CW25 submission feedbacks and submitting financial assistance request
+* Team meeting
+* 1-1 with Yo
+* Governance committee check-in
+* Masterclass kick-off
+* Xero catch-up with Ellis
+* CZI report writing
+
+### What did you struggle with?
+
+* Mood - definitely started the week grumpy
+* Focus once the big task was out of the way
+
+### Any other topics
+* Made some time for a haircut.
+* Progressed some SSI Fellow mentorship things
 
 ## Week: 17 February 2025
 
