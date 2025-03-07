@@ -4,6 +4,7 @@
 * [10-02-2025](#week-10-february-2025)
 * [17-02-2025](#week-17-february-2025)
 * [24-02-2025](#week-24-february-2025)
+* [03-03-2025](#week-3-march-2025)
 
 
 ## Template
@@ -24,6 +25,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 3 March 2025
+
+### What brought you joy this week?
+
+* A few get things done meetings. Co-working is nice! And there are some exiting tasks on the horizon.
+ 
+### What did you achieve?
+* Double checking Xero data and some of our processes
+* Budget meeting
+* 1-1/retro with Bethan
+* Team meeting
+* Draft next NASA invoices
+* Get on top of Catalyst finances
+* Get on top of our travel expenses and our general funds
+* Project contract options
+* 1-1 with Yo
+* Masterclass project team meeting
+* Some basic calendar/meeting admin
+
+### What did you struggle with?
+
+* Sleep: mix of windy nights and brain going into overdrive on some things
+
+### Any other topics
+
+* Met my SSI mentee in person and it was fun!
+* House might be at the last hurdle now and it's exciting and stressful!
 
 ## Week: 24 February 2025
 
