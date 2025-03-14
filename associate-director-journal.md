@@ -5,6 +5,7 @@
 * [17-02-2025](#week-17-february-2025)
 * [24-02-2025](#week-24-february-2025)
 * [03-03-2025](#week-3-march-2025)
+* [10-03-2025](#week-10-march-2025)
 
 
 ## Template
@@ -25,6 +26,36 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 10 March 2025
+
+### What brought you joy this week?
+
+* We have a house!
+* Some quiet time poking around small to dos.
+ 
+### What did you achieve?
+* SSI consultancy check-in
+* Team meeting
+* Review some Masterclass docs and add a few items to the risk register
+* Kick people around comms
+* Send NASA invoices
+* Check-in with PEM
+* Co-work a request for bids for Open Seeds
+* Update on salary allocations
+* Write some finance documentation around payroll
+* Coaching call
+* 1-1 with Yo
+* Apply for some training
+
+### What did you struggle with?
+
+* Switching gears when people were unavailable and plans had to change.
+* Focus!
+
+### Any other topics
+
+* Felt like the co-op chat made progress this week. 
 
 ## Week: 3 March 2025
 
