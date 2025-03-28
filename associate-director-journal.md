@@ -6,6 +6,7 @@
 * [24-02-2025](#week-24-february-2025)
 * [03-03-2025](#week-3-march-2025)
 * [10-03-2025](#week-10-march-2025)
+* [24-03-2025](#week-24-march-2025)
 
 
 ## Template
@@ -26,6 +27,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 24 March 2025
+
+### What brought you joy this week?
+
+* Didn't do a report last week because I hung out with people in person!!! 
+ 
+### What did you achieve?
+* Contractor review and follow up with lawyers
+* Update on where we are with DRA Canada spend
+* 1-1s with Bethan
+* 1-1 with Yo
+* Setting up CZI 2024 spend down tracker
+* Preparing and chairing team meeting
+* Some logistics for CW25
+* CZI-2024 team meeting
+* Discussing a potential collab, starting on a potential budget
+* FSC reviews and thoughts
+* Some accountant follow ups
+
+### What did you struggle with?
+
+* Focus - life admin and travel is creeping in.
+* A lot of small stuff and nothing big achieved. 
+  
+### Any other topics
+
+* House is making progress. Looking forward to the stress being over.
 
 ## Week: 10 March 2025
 
