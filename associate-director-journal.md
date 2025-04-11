@@ -7,6 +7,7 @@
 * [03-03-2025](#week-3-march-2025)
 * [10-03-2025](#week-10-march-2025)
 * [24-03-2025](#week-24-march-2025)
+* [07-04-2025](#week-7-april-2025)
 
 
 ## Template
@@ -27,6 +28,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 7 April 2025
+
+Covering 2 weeks as last Friday was moving day and the update didn't happen. 
+
+### What brought you joy this week?
+
+* Really enjoyed some brainstorming sessions on project proposals - those are fun and I felt competent!
+ 
+### What did you achieve?
+* Team meetings
+* 1-1s with Bethan
+* 1-1 with Yo
+* Masterclass meetings
+* Governance committee meeting
+* Ops check-in
+* Some PEM follow ups
+* Budget meeting and FSC planning
+* Business development thinking
+* Update folks on my new address
+* Coaching call
+* CZI New Org 101 trainings
+* Some basic costings for some of the ideas we brainstormed.
+
+### What did you struggle with?
+
+* Definitely still distracted by trying to adjust to the new settings and sorting things out. Looking forward to some time off even if that made this week and the one work day next week packed. 
+  
+### Any other topics
+
+* Good weather week, having lunch breaks in the sun make all the difference!
 
 ## Week: 24 March 2025
 
