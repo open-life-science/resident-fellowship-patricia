@@ -8,6 +8,7 @@
 * [10-03-2025](#week-10-march-2025)
 * [24-03-2025](#week-24-march-2025)
 * [07-04-2025](#week-7-april-2025)
+* [21-04-2025](#week-21-april-2025)
 
 
 ## Template
@@ -29,6 +30,33 @@
 
 This space is yours to add to as needed.
 
+## Week: 21 April 2025
+Also includes the one working day I did last week.
+
+### What brought you joy this week?
+
+* Feeling competent and being able to talk about OLS Finances without too much heads up :)
+ 
+### What did you achieve?
+* Ops check-in and some more clarity on the tenders
+* Catch-up with Giacomo
+* Seeds to systems team meeting
+* Paying people
+* Preparing presentation and agenda for next weeks team meeting
+* Update some risk registers
+* Update budgeting template and compensation band exchange rates
+* Update budgets with latest spends, some projections
+* Governance committee meeting
+* CZI New Org 101 training
+* 1-1 with Yo
+
+### What did you struggle with?
+
+* Having training on days off meant I ended up working extra hours for the last few weeks. Felt not stressed though, just busy.
+
+### Any other topics
+
+Spent some time catching up on SSI mentoring stuff and the Turing Way Book Dash. And made sure I sat in the garden reading when the weather was nice.
 
 ## Week: 7 April 2025
 
