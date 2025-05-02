@@ -9,6 +9,7 @@
 * [24-03-2025](#week-24-march-2025)
 * [07-04-2025](#week-7-april-2025)
 * [21-04-2025](#week-21-april-2025)
+* [28-04-2025](#week-28-april-2025)
 
 
 ## Template
@@ -29,6 +30,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 28 April 2025
+
+### What brought you joy this week?
+
+* Sunshine! Some glorious summery days and working in the garden to make the most of it.
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* Updated and launched tender
+* Started basic planning for team retreat
+* Chair and present at team meeting
+* Host co-working (with some minor tech issues)
+* Review and update finance risk register
+* Create consultancy risk register
+* Review some process documentation PRs
+* Rework all the NASA budgets and send invoices for the last 2 months
+  * Update other budgets as follow up
+* Update SSI mentorship workshop proposal
+
+### What did you struggle with?
+
+* Thought it might be a quieter week, turns out it wasn't as I tried to get on top of all things NASA in a short period of time. Looking forward to a long weekend to recharge.
+
+### Any other topics
+
+Sunshine is making all the difference!
 
 ## Week: 21 April 2025
 Also includes the one working day I did last week.
