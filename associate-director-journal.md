@@ -10,6 +10,8 @@
 * [07-04-2025](#week-7-april-2025)
 * [21-04-2025](#week-21-april-2025)
 * [28-04-2025](#week-28-april-2025)
+* [06-05-2025](#week-6-may-2025)
+
 
 
 ## Template
@@ -30,6 +32,36 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 6 May 2025
+
+### What brought you joy this week?
+
+* Sunshine and spending a lot of time in the garden. And I got to play with my new sewing machine.
+ 
+### What did you achieve?
+* Check-in and review of proposal with Manchester
+* Some basic CW25 prep - not as much as I'd like
+* Submit SSI mentorship workshop proposal for real
+* Read up on budgeting
+* Prep draft for annual budget
+* Budget meeting
+* Seeds 2 systems team meeting
+* Bethan 1-1
+* Yo 1-1
+* FSC chasing and approval of final project budget
+* Coaching session
+* Open Seeds proposal review
+
+### What did you struggle with?
+
+* This week did not go to plan and it was frustrating. Ahead of a busy week, it felt stressful and I couldn't prep as much as I'd liked even working extra time. Next week will also be more stressful than anticipated. 
+
+### Any other topics
+
+* Did some non OLS meetings and felt like I do have some experience. Potentially being too grumpy about it though.
+* Also managed to hurt myself in various ways which is uncool.
 
 ## Week: 28 April 2025
 
