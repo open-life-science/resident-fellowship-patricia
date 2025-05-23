@@ -11,6 +11,7 @@
 * [21-04-2025](#week-21-april-2025)
 * [28-04-2025](#week-28-april-2025)
 * [06-05-2025](#week-6-may-2025)
+* [19-05-2025](#week-19-may-2025)
 
 
 
@@ -33,6 +34,34 @@
 
 This space is yours to add to as needed.
 
+
+
+## Week: 19 May 2025
+### What brought you joy this week?
+
+* TTW book dash socials
+* Grace Petrie concert
+ 
+### What did you achieve?
+* Recovering from CW25 and team retreat
+* 1-1 with Bethan
+* 1-1 with Yo
+* Team meetings (all team, Seeds2Systems)
+* Processed some reimbursements
+* Starting CW25 expense claim
+* FSC meeting
+* Project updates
+* Event proposal brainstorming
+* PR to update some of our policies
+* Tender timeline update and evaluation prep
+
+### What did you struggle with?
+
+* Still plenty to do but made a point of taking time back from intense work weeks.
+
+### Any other topics
+
+* My office chair and I had a disagreement again - it's now bubble wrapped.
 
 ## Week: 6 May 2025
 
