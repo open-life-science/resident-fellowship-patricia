@@ -12,6 +12,7 @@
 * [28-04-2025](#week-28-april-2025)
 * [06-05-2025](#week-6-may-2025)
 * [19-05-2025](#week-19-may-2025)
+* [26-05-2025](#week-26-may-2025)
 
 
 
@@ -34,7 +35,30 @@
 
 This space is yours to add to as needed.
 
+## Week: 26 May 2025
 
+### What brought you joy this week?
+
+* Taking breaks to build LEGO when struggling with focus.
+ 
+### What did you achieve?
+* Tender reviews
+* Shortlisting discussion and sending out emails to people weeks ahead of schedule!
+* Useful leadership conversations
+* Some more budget work
+* Updating our documentation with current contract information
+* PEM catch-up
+* Reviewing Seeds2Systems announcements
+* FSC emails
+* DRA catch-up emails
+
+### What did you struggle with?
+
+* Low energy week and short work week added pressure that wasn't really there.
+
+### Any other topics
+
+Taking some time for a concert trip, need to make sure proper breaks are planned.
 
 ## Week: 19 May 2025
 ### What brought you joy this week?
