@@ -13,6 +13,7 @@
 * [06-05-2025](#week-6-may-2025)
 * [19-05-2025](#week-19-may-2025)
 * [26-05-2025](#week-26-may-2025)
+* [02-06-2025](#week-2-june-2025)
 
 
 
@@ -34,6 +35,39 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 2 June 2025
+
+### What brought you joy this week?
+
+* Seeing a backlog of invoices getting paid.
+ 
+### What did you achieve?
+* Catching up on all the stuff that happened while I was away
+* Send out last NASA invoices for now
+* Team meeting
+* Budget meeting
+* Governance committee meeting
+* Funder catch-up
+* Chats about hiring
+* Some basic budget input and review of LoIs
+* 1-1 with Bethan
+* 1-1 with Yo
+* Coaching session
+* Companies house admin
+* Start on the mentoring training
+* Some tender follow ups
+* Seeds2Systems team meeting
+* Fundraising training
+
+### What did you struggle with?
+
+* Time. Didn't manage in allocated hours and there's so much I pushed to next week that that one is super packed already as well 😅
+
+### Any other topics
+
+Planned some time off. Built more LEGO when focus wasn't there. Still overall pretty tired.
 
 ## Week: 26 May 2025
 
