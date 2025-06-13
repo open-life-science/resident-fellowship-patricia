@@ -14,6 +14,7 @@
 * [19-05-2025](#week-19-may-2025)
 * [26-05-2025](#week-26-may-2025)
 * [02-06-2025](#week-2-june-2025)
+* [09-06-2025](#week-9-june-2025)
 
 
 
@@ -36,6 +37,40 @@
 
 This space is yours to add to as needed.
 
+## Week: 9 June 2025
+
+### What brought you joy this week?
+
+* Buying house plants :)
+* Realizing I'm much more prepared than I thought
+ 
+### What did you achieve?
+* Team meeting
+* Updated cohort costs for a query
+* Ops catch-up
+* Catch up with a potential collaborator on possible areas for working together
+* SSI consultancy catch-up
+* Chasing CW25 invoices so I can finally put my reimbursement together
+* Meetings, reviews and various not super structured ideas for LoIs for events
+* Prepare our mentor training
+* Learn about succession planning
+* Refresh our info on Telleroo
+* 1-1 with Bethan
+* Draft version of tender contract for fundraising
+* Host co-working
+* Catch up with DRA on next steps for some more collabs
+* Clarification meeting for tender team on policies
+* Fundraising training
+* Chat with consultants to help us get leadership documentation together and scheduling follow up sessions for June and July
+
+### What did you struggle with?
+
+* Too much to do - getting better at not getting stressed about it though.
+* The attic office is getting warm!
+
+### Any other topics
+
+* Managed some other meetings, too on TTW and consultancy coop. Plus made sure there was time to enjoy the garden and read.
 
 ## Week: 2 June 2025
 
