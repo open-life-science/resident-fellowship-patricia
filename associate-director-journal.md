@@ -15,8 +15,7 @@
 * [26-05-2025](#week-26-may-2025)
 * [02-06-2025](#week-2-june-2025)
 * [09-06-2025](#week-9-june-2025)
-
-
+* [16-06-2025](#week-16-june-2025)
 
 ## Template
 
@@ -36,6 +35,42 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 16 June 2025
+
+### What brought you joy this week?
+
+* Random games in the team meeting.
+* A day off baking and repotting plants
+ 
+### What did you achieve?
+* Budget meeting and filling more gaps
+* Leadership discussion around budget
+* Submit CW25 reimbursement
+* Documentation sprint
+  * Update finance handbook
+  * Move FSC documentation to GitHub
+  * Provide more context for the holiday entitlement spreadsheet
+* Update slides and shared notes for mentorship training
+* Create slides for SSI Fellowship call presentation
+* 1-1 with Bethan
+* Catch-up with PEM and follow ups (bank account details, reconciliation)
+* Seeds2Systems team meeting
+* FSC check-in meeting
+* Finance email follow up
+* CZI Fundraising training
+* Fundraising consultancy contract queries and kick off meeting
+
+### What did you struggle with?
+
+* Turns out the office is onworkable once temperatures are beyond a certain point. Needed to move elsewhere for parts of the work.
+* Low enery combined with an intense day.
+* Definitely again too much to actually fit in my working hours.
+
+### Any other topics
+* Managed some other useful conversations.
+* Hard decisions are hard.
+* Happy birthday to me!
 
 ## Week: 9 June 2025
 
