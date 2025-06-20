@@ -63,7 +63,7 @@ This space is yours to add to as needed.
 
 ### What did you struggle with?
 
-* Turns out the office is onworkable once temperatures are beyond a certain point. Needed to move elsewhere for parts of the work.
+* Turns out the office is unworkable once temperatures are beyond a certain point. Needed to move elsewhere for parts of the work.
 * Low enery combined with an intense day.
 * Definitely again too much to actually fit in my working hours.
 
