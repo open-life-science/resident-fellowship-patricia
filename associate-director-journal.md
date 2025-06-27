@@ -16,6 +16,7 @@
 * [02-06-2025](#week-2-june-2025)
 * [09-06-2025](#week-9-june-2025)
 * [16-06-2025](#week-16-june-2025)
+* [23-06-2025](#week-23-june-2025)
 
 ## Template
 
@@ -35,6 +36,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 23 June 2025
+
+### What brought you joy this week?
+
+* Delivering a really fun and engaging mentor workshop.
+* Catching up with folks after ages.
+* Finishing a jigsaw.
+ 
+### What did you achieve?
+* Present at SSI Fellows community meeting.
+* Provide project updates
+* Team meeting
+* Prepare material for consultants, promote survey
+* Annual budget updates
+* Reading up on FSC docs
+* Reviewing some FSC docs and checking in with Yo on feedback
+* Seeds2Systems team meeting and partial catch-up
+* Governance committee meeting
+* Program officer check-in
+* 1-1 with Bethan
+* Accountants catch-up: reconciliation, unassigned transactions
+
+### What did you struggle with?
+
+* Low energy at times, husband is not feeling great and it affected my energy levels.
+* Worked again more than allocated time and didn't manage everything quite a few things unresolved and hanging over.
+
+### Any other topics
+
+* Looking forward to an extended weekend and some time off.
 
 ## Week: 16 June 2025
 
