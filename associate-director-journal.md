@@ -17,6 +17,7 @@
 * [09-06-2025](#week-9-june-2025)
 * [16-06-2025](#week-16-june-2025)
 * [23-06-2025](#week-23-june-2025)
+* [30-06-2025](#week-30-june-2025)
 
 ## Template
 
@@ -36,6 +37,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 30 June 2025
+
+### What brought you joy this week?
+
+* Listening to the AI discussion in the co-working
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* FSC follow up
+* Other finance follow up
+* Trying to progress a range of contracts
+* Follow ups for the fundraising consultancy
+* Coaching session
+* Seeds2Systems team meeting
+
+### What did you struggle with?
+
+* Motivation and energy: was struggling a bit after a long weekend off.
+
+### Any other topics
+
+Short week in favour of socializing and long overdue catch ups with people!
 
 ## Week: 23 June 2025
 
