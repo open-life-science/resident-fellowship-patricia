@@ -18,6 +18,7 @@
 * [16-06-2025](#week-16-june-2025)
 * [23-06-2025](#week-23-june-2025)
 * [30-06-2025](#week-30-june-2025)
+* [07-07-2025](#week-7-july-2025)
 
 ## Template
 
@@ -37,6 +38,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 7 July 2025
+
+### What brought you joy this week?
+
+* Consultancy session around leadership - it felt that was a big unblocker.
+* Realizing my office window opens after all!
+ 
+### What did you achieve?
+* Starting to update budgets, salary allocations
+* More work on annual budget as clarity on some more moving pieces came in.
+* Team meeting
+* Team meeting prep for Monday and the rest of the quarter
+* Catching up Yo after her holiday
+* Paying people
+* CS&S catch-up on FSC
+* Fundraising/business consultancy check-in
+* SSI monthly catch-up
+* Seeds2Systems team meeting
+* Follow ups on trialling some Seeds2Systems aspects with the SSI
+* Progressing some contract conversations
+* Minor GitHub tidies, newsletter review etc.
+
+### What did you struggle with?
+
+* Definitely energy at the start of the week after very little sleep on the weekend.
+* Decided to go for ToiL and push some big tasks to next week to enjoy the weather instead when energy/focus wasn't there.
+
+### Any other topics
+
+Progressed some coop chats and did an interesting fitness assessment.
 
 ## Week: 30 June 2025
 
