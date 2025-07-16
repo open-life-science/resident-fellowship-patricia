@@ -19,6 +19,7 @@
 * [23-06-2025](#week-23-june-2025)
 * [30-06-2025](#week-30-june-2025)
 * [07-07-2025](#week-7-july-2025)
+* [14-07-2025](#week-14-july-2025)
 
 ## Template
 
@@ -38,6 +39,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 14 July 2025
+
+### What brought you joy this week?
+
+* I didn't hate most of my tasks and managed to do painting in my lunch breaks.
+ 
+### What did you achieve?
+* Facilitated team meeting
+* Reconciled NASA on Xero and ensured there wasn't a budget hole
+* Some more work on the annual budget
+* Co-working with Yo on director job descriptions and org chart
+* FSC catch up
+* Catching up with PEM on quarterly report queries
+* SSI catch-up follow up tasks
+* Exploring different delivery options for Open Seeds and costs
+* Job description and costing for a new role
+* Seeds2Systems team meeting
+
+### What did you struggle with?
+
+* Too many things to do before going on leave - so keeping to hours was a struggle again.
+
+### Any other topics
+
+Did my coop homework, too.
+Looking forward to a week off!
 
 ## Week: 7 July 2025
 
