@@ -20,6 +20,7 @@
 * [30-06-2025](#week-30-june-2025)
 * [07-07-2025](#week-7-july-2025)
 * [14-07-2025](#week-14-july-2025)
+* [21-07-2025](#week-21-july-2025)
 
 ## Template
 
@@ -30,7 +31,7 @@
 * Replace this text with a one/two sentence description of who you helped this week and how.
  
 ### What did you achieve?
-
+* Kind of catch up on
 
 ### What did you struggle with?
 
@@ -39,6 +40,26 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 21 July 2025
+
+### What brought you joy this week?
+
+* Being on leave for most of it.
+ 
+### What did you achieve?
+* Mostly caught up on emails and slack.
+* Updated my to do list for next week.
+* Shuffled meetings around to accurately sync calendars and messages while I was away.
+* Chatted to Yo
+
+### What did you struggle with?
+
+* Usual slight overwhelm after a while away.
+
+### Any other topics
+
+None, hoping for a good and productive week next week.
 
 ## Week: 14 July 2025
 
