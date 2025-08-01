@@ -21,6 +21,7 @@
 * [07-07-2025](#week-7-july-2025)
 * [14-07-2025](#week-14-july-2025)
 * [21-07-2025](#week-21-july-2025)
+* [28-07-2025](#week-28-july-2025)
 
 ## Template
 
@@ -40,6 +41,42 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 28 July 2025
+
+### What brought you joy this week?
+
+* Reflection time on leadership.
+* Vegan pastries.
+ 
+### What did you achieve?
+* PSA liaison with accountants
+* Aged payables catch-up
+* Registering for events in Sept/October
+* LaCire consultant catch-up on leadership documentation to dos
+* Governance committee meeting
+* Governance committee meeting follow up and prep tasks
+* Team meeting
+* Trying to understand remote.com
+* FSC check-in meeting
+* Fundraising consultant follow up
+* 1-1 with Bethan
+* Annual budget updates
+* Seeds2Systems team meeting
+* Update various finance spreadsheets to reflect recent contracts
+* A lot of small GitHub pings and reviews
+
+### What did you struggle with?
+
+* To-do list items hardly got ticked off, feeling behind already.
+* Some other feelings that came up that I need to figure out how to manage.
+* Injured myself and not good at handling that.
+* Meeting with Yo
+
+### Any other topics
+
+Getting better at FOMO and keeping boundaries on days off.
+I bought plants and shoes :)
 
 ## Week: 21 July 2025
 
