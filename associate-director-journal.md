@@ -22,6 +22,7 @@
 * [14-07-2025](#week-14-july-2025)
 * [21-07-2025](#week-21-july-2025)
 * [28-07-2025](#week-28-july-2025)
+* [04-08-2025](#week-4-august-2025)
 
 ## Template
 
@@ -41,6 +42,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 4 August 2025
+
+### What brought you joy this week?
+
+* Fringe/theatre trips: past me organised us a really good line up, though it also requires some time and energy to recover.
+* A lot of meetings with Yo: we're getting to a good structure going forward.
+ 
+### What did you achieve?
+* Sort Riva with a contract
+* Team meeting
+* Figure out a way for budget meetings going forward
+* Budget meeting incl. some updates to our documentation and approaches to workload planning
+* DRA FSC catch-up with Joyce
+* Read through our FSC contract
+* FSC meeting
+* Review some things for RCMCoop
+* 1-1 with Bethan
+* Small catch ups regarding our consultants, PEM, to do list updates and scheduling
+* More annual budget work
+
+### What did you struggle with?
+
+* Extra day off for the Fringe meant it felt the rest was busy and slightly overwhelming and the taking some time back didn't actually quite work.
+* Getting Emmy's OLS email reactivated.
+
+### Any other topics
+
+It's been so windy all week. And the summer holidays come to an end, so readjusting to business as usual will be fun.
 
 ## Week: 28 July 2025
 
