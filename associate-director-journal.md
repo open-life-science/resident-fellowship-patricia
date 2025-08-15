@@ -23,6 +23,7 @@
 * [21-07-2025](#week-21-july-2025)
 * [28-07-2025](#week-28-july-2025)
 * [04-08-2025](#week-4-august-2025)
+* [11-08-2025](#week-11-august-2025)
 
 ## Template
 
@@ -42,6 +43,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 11 August 2025
+
+### What brought you joy this week?
+
+* More nice Fringe shows.
+* Surviving an almost 7h work day in high temperatures.
+ 
+### What did you achieve?
+* "Upgrade" my computer to Windows 11
+* Switch most of my things to the new OLS Zoom account
+* Team meeting
+* Draft a whole lot of new contracts and amendments
+* Admin prep for new executive meetings
+* Executive meetings
+* 1-1 with Bethan
+* Monthly catch-up with SSI folks
+* Some more reviews and follow ups on 2 of the FSCs
+* Follow up on our consultancy projects
+* Some updates to our accountants
+* Seeds2Systems team meeting
+* Host co-working
+* Start some travel admin
+
+### What did you struggle with?
+
+* Sleep disruption
+* Awkward mix of overwhelm that wasn't overwhelm, more a lack of cognitive function to tackle fairly small tasks and get things done.
+
+### Any other topics
+
+Moomin shopping spree and potential visitors soon mean some changes to the office :)
 
 ## Week: 4 August 2025
 
