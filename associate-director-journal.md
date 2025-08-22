@@ -24,6 +24,7 @@
 * [28-07-2025](#week-28-july-2025)
 * [04-08-2025](#week-4-august-2025)
 * [11-08-2025](#week-11-august-2025)
+* [18-08-2025](#week-18-august-2025)
 
 ## Template
 
@@ -43,6 +44,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+
+## Week: 18 August 2025
+
+### What brought you joy this week?
+
+* Bitching about my PhD trauma to Yo 😅
+ 
+### What did you achieve?
+* Getting some contract amendments signed, updating our spreadsheets accordingly
+* Salary updates to PEM, paying folk for August
+* Prep annual budget for Xero
+* Team meeting
+* Write job description for FSC Manager
+* FSC check-in meeting
+* Review hiring timeline and evaluation matric, set up submission form etc.
+* Quick collab with Aman around accessibility microgrants for their training event
+* Set up Pre-Seeds Agreement in principle
+* 1-1 with Bethan
+* Co-Exec leader meetings
+* DRA OS retreat document review and feedback
+* Companies house filing
+
+### What did you struggle with?
+
+* Things taking longer and a lot of small stuff popping up to deal with at short notice; rather a lot got pushed to next week
+
+### Any other topics
+
+I think I was an okay mentor this week.
+I encouraged myself to do some baking - need to make sure I make this more of a habit.
 
 ## Week: 11 August 2025
 
