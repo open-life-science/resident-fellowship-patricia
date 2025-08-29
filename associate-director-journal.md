@@ -25,6 +25,7 @@
 * [04-08-2025](#week-4-august-2025)
 * [11-08-2025](#week-11-august-2025)
 * [18-08-2025](#week-18-august-2025)
+* [26-08-2025](#week-26-august-2025)
 
 ## Template
 
@@ -45,7 +46,35 @@
 
 This space is yours to add to as needed.
 
+## Week: 26 August 2026
 
+### What brought you joy this week?
+
+* Random chat in the co-working.
+ 
+### What did you achieve?
+* Publish and promote FSC Manager job
+* Put together monthly report for the team and governance committee.
+* Chase some invoices.
+* Review risk registers
+* Prepare annual budget presentation for governance committee
+* Chair Seeds2Systems team meeting
+* Chair governance committee meeting
+* Progress DRA OS Retreat contact and supporting documentation
+* Liaise with Aman and SocRSE around accessibility microgrants for the training event
+* Tried ESTA again now with concrete request to unblock
+* Tried to tidy and progress some finance inbox things while Bethan is away (just to run out of time to do things properly)
+* RCMCoop catch up on concrete next steps
+
+### What did you struggle with?
+
+* A lot of bits popping up while others are away, prioritizing what's urgent while trying to catch up on things.
+* Hoped to take it easy and take some time back for the bank holiday - that didn't really happen.
+* Figuring out feelings and reactions to some of things popping up.
+
+### Any other topics
+
+Busy September ahead - need to make sure I make time for rest and reflection.
 
 ## Week: 18 August 2025
 
