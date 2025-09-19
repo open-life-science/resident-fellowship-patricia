@@ -3,6 +3,7 @@
 ## 2025
 * [01-09-2025](#week-1-september-2025)
 * [08-09-2025](#week-8-september-2025)
+* [15-09-2025](#week-15-september-2025)
 
   
 ## Template
@@ -23,6 +24,36 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 15 September 2025
+
+### What brought you joy this week?
+
+* Actually having some energy again.
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 1-1 with Bethan
+* Regular check-in with our accoutants
+* Follow ups for quarterly accounting
+* SSI catch-up
+* Updated payslips and salary approvals
+* Catch-up with DRA on some OS Retreat things and scheduling of more follow ups
+* RSEAsia follow up
+* Team meeting hosting
+* PEM meetings about employment in Canada
+* Cosing FSC Manager recruitment and setting up everything for shortlisting
+* Handing over to Yo
+* Publishing "From Surviving to Thriving" announcement blog
+
+### What did you struggle with?
+
+* Still struggled with a bit of energy at the start of the week.
+* There are a few things to reflect on about things that don't go well when I'm stressed/sick/exhausted. Hope for some reading and reflecting time in November.
+
+### Any other topics
+
+* Enjoyed chatting SSI Fellowships
 
 ## Week: 8 September 2025
 
