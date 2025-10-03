@@ -4,6 +4,7 @@
 * [01-09-2025](#week-1-september-2025)
 * [08-09-2025](#week-8-september-2025)
 * [15-09-2025](#week-15-september-2025)
+* [29-09-2025](#week-29-september-2025)
 
   
 ## Template
@@ -24,6 +25,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 29 September 2025
+
+### What brought you joy this week?
+
+* A rambly and chatty 1-1 with Bethan.
+* Being on leave for part of the week.
+ 
+### What did you achieve?
+* Catch up on most systems
+* My shortlisting part for the FSC Manager role
+* Check-in with Yo
+* Hosting co-working
+* Catch-up with PEM around quarterly reports, salary allocations and prep for grant reporting
+* Started sorting some of the NASA invoicing, budget changes and reporting
+* Writing bios for various contexts
+* Prep for the Surviving to Thriving meet up
+* Payments
+
+### What did you struggle with?
+
+* Rainy and grey weather.
+* University systems
+* Trying to get things done in a reasonable time.
+
+### Any other topics
+
+Not really. It was good to have some time off.
 
 ## Week: 15 September 2025
 
