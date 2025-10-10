@@ -5,6 +5,7 @@
 * [08-09-2025](#week-8-september-2025)
 * [15-09-2025](#week-15-september-2025)
 * [29-09-2025](#week-29-september-2025)
+* [06-10-2025](#week-10-october-2025)
 
   
 ## Template
@@ -25,6 +26,40 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 6 October 2025
+
+### What brought you joy this week?
+
+* Random creation of new podcasts in the co-working session
+* Reflection space with Yo
+ 
+### What did you achieve?
+* Team meeting
+* Directors catch-up
+* Review bereavement policy and communicate accordingly
+* FSC Manager shortlisting meeting and some follow up logistics
+* 1-1(s) with Sara
+* DRA OS Retreat check-in
+* Sort through unassigned transactions
+* OLS Policies focus group
+* Chair Seeds2Systems meeting
+* Finance inbox catch-up
+* CZI-2024 finance grant reporting
+* Get honoraria emails out
+* Newsletter draft review
+* Some initial thinking on a training plan/strategy
+* Monthly SSI catch-up
+* Too many wild ideas around proposals, none of the mature in any way.
+
+### What did you struggle with?
+
+* Workload and unintended consequences of being frazzled on behaviour.
+* Trying not to get stressed looking at my calendar for the next weeks 🫠
+
+### Any other topics
+
+Trying to find excitement to make the US trip worth the effort.
 
 ## Week: 29 September 2025
 
