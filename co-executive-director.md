@@ -6,6 +6,7 @@
 * [15-09-2025](#week-15-september-2025)
 * [29-09-2025](#week-29-september-2025)
 * [06-10-2025](#week-10-october-2025)
+* [27-10-2025](#week-27-october-2025)
 
   
 ## Template
@@ -26,6 +27,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 27 October 2025
+
+### What brought you joy this week?
+
+* Making time to read relevant papers on the sofa 
+ 
+### What did you achieve?
+* 2 interviews
+* Interview prep and improving the notes spreadsheet
+* 1-1 with Sara
+* Team meeting with Emmy
+* Governance committee report
+* Governance committee meeting
+* Paying honoraria backlog
+* Thriving to surviving follow up
+* Catch up with Anelda on joint talk
+* Trying to understand grant criteria
+* Quick check in with Yo
+
+### What did you struggle with?
+
+* Started the week tired after coming back from the US and could have done without the additional curveballs.
+
+### Any other topics
+
+US trip was good, it was nice to spend a lot of time in person aligning. Makes handling curveballs a bit easier.
 
 ## Week: 6 October 2025
 
