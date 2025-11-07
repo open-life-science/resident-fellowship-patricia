@@ -7,6 +7,7 @@
 * [29-09-2025](#week-29-september-2025)
 * [06-10-2025](#week-10-october-2025)
 * [27-10-2025](#week-27-october-2025)
+* [03-11-2025](#week-3-november-2025)
 
   
 ## Template
@@ -27,6 +28,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 3 November 2025
+
+### What brought you joy this week?
+
+* Learning from a whole bunch of exciting people.
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 7 interviews including some last minute workarounds
+* Process interview notes and set up evaluation along the way
+* Discourse grant costings
+* Team meeting
+* Check in with SSI around TTW support
+* Workload updates
+* Finance inbox: accessibility grants, update several FSC budgets
+* Directors catch up
+* Host co-working
+* Prep next week's team meeting
+* Start on slides for mentoring webinar
+* Send all the monthly updates to PEM
+
+### What did you struggle with?
+
+* Not the most efficient person dealing with interview notes. Took much more time than hoped.
+* Predictably busy week and I struggled with energy in parts. 
+
+### Any other topics
+
+Still holding up and having hopes to be able to take a break at the end of the month 🤞
+
 
 ## Week: 27 October 2025
 
