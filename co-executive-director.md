@@ -8,6 +8,7 @@
 * [06-10-2025](#week-10-october-2025)
 * [27-10-2025](#week-27-october-2025)
 * [03-11-2025](#week-3-november-2025)
+* [10-11-2025](#week-10-november-2025)
 
   
 ## Template
@@ -28,6 +29,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 10 November 2025
+
+### What brought you joy this week?
+
+* Running a fun scavenger hunt for the team.
+* Presenting our mentorship programme.
+ 
+### What did you achieve?
+* Bethan back to work interview
+* Bethan 1-1
+* Suriving to Thriving homework and follow up meeting
+* Discourse costing ahead of submission and wrangling collaborations
+* Exec Director catch-up
+* SSI catch-up
+* Interview follow ups and decision making
+* Finalizing and publishing slides for the mentorship talk
+* A lot of small bits
+
+### What did you struggle with?
+
+* Time management
+* Shutting down something that I potentially could have caught sooner
+
+### Any other topics
+
+Booked some time off and caught up with all the house work!
 
 ## Week: 3 November 2025
 
