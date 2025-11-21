@@ -9,6 +9,7 @@
 * [27-10-2025](#week-27-october-2025)
 * [03-11-2025](#week-3-november-2025)
 * [10-11-2025](#week-10-november-2025)
+* [17-11-2025](#week-17-november-2025)
 
   
 ## Template
@@ -29,6 +30,39 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 17 November 2025
+
+### What brought you joy this week?
+
+* SSI mentor check-ins resonate a lot, bring good ideas and are validation that what we have done so far is good.
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 1-1 with Bethan
+* Co-Exec catch-ups
+* Team meeting
+* Seeds2Sytems meeting
+* Getting on top of budgets, digging into Xero to check data
+* Reconcile and close down CZI-2023 and DRA Canada
+* Check in with PEM
+* NASA invoice prep
+* Schedule tender wrap up meetings
+* Figure out difficult interview feedback
+* Last CZI reimbursements
+* Initial catch-up on Emmy's business strategy; immediately applying it to project proposal brainstorming
+* Payslip approvals
+* Project updates
+* Small bits of supporting the onboarding of the new FSC Manager
+
+### What did you struggle with?
+
+* Slightly apprehensive about the work that needs proper dedication to early next year. Hope we have some time in December to think and plan and taking off time next week means I can get excited about things and not just dread them.
+
+### Any other topics
+
+It's been cold this week which makes some of my skin issues flare up again.
 
 ## Week: 10 November 2025
 
