@@ -10,6 +10,7 @@
 * [03-11-2025](#week-3-november-2025)
 * [10-11-2025](#week-10-november-2025)
 * [17-11-2025](#week-17-november-2025)
+* [01-12-2025](#week-1-december-2025)
 
   
 ## Template
@@ -31,6 +32,29 @@
 
 This space is yours to add to as needed.
 
+## Week: 1 December 2025
+
+### What brought you joy this week?
+
+* Being off for most of it ;-). Having some time to catch up on loose ends for the year was helpful.
+ 
+### What did you achieve?
+* Catching up on all the bits (kind of)
+* Seeds2Systems team meeting
+* Co-Exec check-ins with Yo
+* Finalize and submit the NASA invoices
+* Reimbursement
+* Holiday spreadsheet and some planning for 2026
+* 1-1 with Bethan
+* Policy consultancy wrap up meeting
+
+### What did you struggle with?
+
+* Not sure the brain was making the switch back to work. Plus it's now really getting dark and SAD is a thing.
+
+### Any other topics
+
+We've booked our summer holiday which feels a bit wild this far in advance...
 
 ## Week: 17 November 2025
 
