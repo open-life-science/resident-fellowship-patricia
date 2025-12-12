@@ -11,6 +11,7 @@
 * [10-11-2025](#week-10-november-2025)
 * [17-11-2025](#week-17-november-2025)
 * [01-12-2025](#week-1-december-2025)
+* [08-12-2025](#week-8-december-2025)
 
   
 ## Template
@@ -31,6 +32,39 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 8 December 2025
+
+### What brought you joy this week?
+
+* Rambly Friday chats in co-working and in the reflection with Yo.
+ 
+### What did you achieve?
+* Budget check-in meeting and re-alignment of that meeting for 2026
+* 1-1 with Sara
+* 1-1 with Bethan
+* NASA meeting
+* Explore status of annual reports
+* Start drafting a 2024 report to still go out
+* Some NASA invoice follow-ups
+* Co-Exec catch up
+* SSI mentor matching brainstorming session
+* RCM Coop budget approvals
+* Payslip and pay approvals
+* FSC check-in meeting
+* Welcome chat with Laura
+* Last minute proposal budget input
+* Team meeting 
+ 
+### What did you struggle with?
+
+* Lots of "last minute/urgent" requests that derailed my quietly catching up on things and just generally made me grumpy.
+* A day of a partially numb face due to dentist work.
+* Some fingers are starting to play up again :( 
+
+### Any other topics
+
+Felt fairly productive getting some non-OLS work things out before the end of the year and planning out work for early 2026.
 
 ## Week: 1 December 2025
 
