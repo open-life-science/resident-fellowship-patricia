@@ -12,6 +12,7 @@
 * [17-11-2025](#week-17-november-2025)
 * [01-12-2025](#week-1-december-2025)
 * [08-12-2025](#week-8-december-2025)
+* [15-12-2025](#week-15-december-2025)
 
   
 ## Template
@@ -32,6 +33,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 15 December 2025
+
+### What brought you joy this week?
+
+* Writing a reference letter. We should tell people the nice stuff more often. I ran out of capacity to do it for more people though.
+* Our small proposals being successful.
+ 
+### What did you achieve?
+* Publish a rough 2024 annual report
+* 1-1 with Sara
+* 1-1 with Bethan
+* Team meeting
+* 2026 to do list
+* Governance committee report
+* Governance committee meeting
+* Business strategy co-working
+* Grumpy reflections and ranting at Yo
+* PEM check-in
+* Some finance inbox bits
+* Jilaga's contract extension
+* Some prep for 2026's first team meeting
+
+### What did you struggle with?
+
+* General grumpyness and not feeling stressed by other people's urgency.
+* Not getting all the things done in 2025.
+
+### Any other topics
+
+Nail art and catching up with old colleagues = ❤️
+
 
 ## Week: 8 December 2025
 
