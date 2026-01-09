@@ -1,5 +1,8 @@
 # Weekly journal
 
+## 2026
+* [05-01-2025](#week-5-january-2026)
+  
 ## 2025
 * [01-09-2025](#week-1-september-2025)
 * [08-09-2025](#week-8-september-2025)
@@ -33,6 +36,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 5 January 2026
+
+### What brought you joy this week?
+
+* Grumpy reflective ranting at Yo helps clarifying and turning things actionable.
+* Co-working was a nice mix of random chat and actually getting work done.
+ 
+### What did you achieve?
+* Chair the team meeting
+* Send next round of NASA invoices
+* Salary allocations, finance inbox catch up and tidy
+* Write several pieces of newsletter content
+* Bethan 1-1
+* Sara check-in
+* Co-Exec directors check in
+* S2S strategy meeting
+* Xero catch-up on FSC budgets
+* My part of shortlisting for Junior Fellows
+* Other small admin return to work bits
+
+### What did you struggle with?
+
+* Sustaining back to work energy for a full week.
+
+### Any other topics
+
+Have some freelance work lined up for the rest of the month, looks like I have a good balance to do this and I have made some time for reading to keep good habits going.
 
 ## Week: 15 December 2025
 
