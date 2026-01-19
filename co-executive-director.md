@@ -2,6 +2,7 @@
 
 ## 2026
 * [05-01-2025](#week-5-january-2026)
+* [12-01-2025](#week-12-january-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -37,6 +38,37 @@
 
 This space is yours to add to as needed.
 
+## Week: 12 January 2026
+
+### What brought you joy this week?
+
+* Getting through some really old tasks!
+ 
+### What did you achieve?
+* Sara 1-1
+* Budget meeting
+* Fellow shortlisting meeting
+* 2 interviews
+* Team meeting
+* Budget updates
+* Bethan 1-1
+* FSC catch-up meeting
+* Exploration chat with a business PA
+* Setting up the shortlisting spreadsheet
+* Finally addressing comments on an outstanding contract
+* Co-Exec leadership catch-up
+* Lots of small bits
+
+### What did you struggle with?
+
+* Brain capacity at the end of the week
+* Figuring out how to give good feedback.
+
+### Any other topics
+
+* Got a good chunk of other business tasks done which is cool.
+* Tap dancing broke my brain, felt rather tired for a large part of the week.
+  
 ## Week: 5 January 2026
 
 ### What brought you joy this week?
