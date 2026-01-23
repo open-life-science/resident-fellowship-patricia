@@ -1,8 +1,9 @@
 # Weekly journal
 
 ## 2026
-* [05-01-2025](#week-5-january-2026)
-* [12-01-2025](#week-12-january-2026)
+* [05-01-2026](#week-5-january-2026)
+* [12-01-2026](#week-12-january-2026)
+* [19-01-2026](#week-19-january-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -37,6 +38,36 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 19 January 2026
+
+### What brought you joy this week?
+
+* Community spotlights are cool :)
+* I had a meeting where not much was required of me and I could build some Lego.
+ 
+### What did you achieve?
+* 2 interviews
+* Team meeting
+* 1-1 with Bethan
+* Co-Exec check-ins
+* Seeds2Systems meeting
+* PEM check-in
+* Policy consultancy kick-off
+* Business consultancy check in
+* Some dirty budget projections
+* Surviving to Thriving pitch review
+* Some aligning of Xero and our budgets with PEM
+* Calendar wrangling
+
+### What did you struggle with?
+
+* Several days of non stop meetings are frying my brain.
+
+### Any other topics
+
+Lots of non-OLS work this week: various small SSI engagement bits and delivering a fun strategic roadmapping workshop.
+
 
 ## Week: 12 January 2026
 
