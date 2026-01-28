@@ -4,6 +4,7 @@
 * [05-01-2026](#week-5-january-2026)
 * [12-01-2026](#week-12-january-2026)
 * [19-01-2026](#week-19-january-2026)
+* [26-01-2026](#week-16-january-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -38,6 +39,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 26 January 2026
+
+### What brought you joy this week?
+
+* Connecting with folks I haven't checked in with in ages.
+ 
+### What did you achieve?
+* 1-1 Bethan
+* 1-1 Sara
+* Team meeting
+* Chair community spotlight
+* Governance committee meeting
+* EOSC reflection chat
+* Fellow interview
+* Fellow decision making and providing support for next steps
+* Co-Exec check-in
+* FSC/Finance ramble
+* Applied for a thing
+* Some admin for our accountants
+* Contract amendment
+* Put reading together for next week
+
+### What did you struggle with?
+
+* Getting all the things done before being away for a long weekend. I don't think I'm very prepared for hanging out with Sara in London yet. 
+
+### Any other topics
+
+* Got my CW26 reviews done.
+* My body decided that it will slow me down for some parts this week. 
+
 
 ## Week: 19 January 2026
 
