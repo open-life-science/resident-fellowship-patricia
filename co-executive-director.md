@@ -5,6 +5,7 @@
 * [12-01-2026](#week-12-january-2026)
 * [19-01-2026](#week-19-january-2026)
 * [26-01-2026](#week-16-january-2026)
+* [02-02-2026](#week-2-february-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -35,6 +36,30 @@
 ### What did you struggle with?
 
 * Replace this text with a bullet point list of where you struggled this week.
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+## Week: 2 February 2026
+
+### What brought you joy this week?
+
+* Meeting up with Sara
+* Community spotlight
+ 
+### What did you achieve?
+* NASA invoices
+* Some tax follow up
+* SSI invoice
+* Prep Seeds2Systems strategy meeting
+* Reconciliation/receipts
+* Gracielle's contract
+
+### What did you struggle with?
+
+* Well, I got hit by the flu and it was not fun.
+* Had some feelings about the visibility of my work.
 
 ### Any other topics
 
