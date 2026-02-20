@@ -6,6 +6,7 @@
 * [19-01-2026](#week-19-january-2026)
 * [26-01-2026](#week-16-january-2026)
 * [02-02-2026](#week-2-february-2026)
+* [16-02-2026](#week-16-february-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -40,6 +41,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 16 February 2026
+
+### What brought you joy this week?
+
+* Successful outcome of an application
+* Discussing another application with Yo and getting my brain working and trying to convince me I'm less of an impostor
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 1-1 with Bethan
+* Co-Exec catch-ups with Yo
+* Policy catch-up with Arielle
+* Seeds2Systems strategy meeting
+* Updating CZI budgets and projections
+* Some attempt of helping out with some Finance inbox things
+* PEM check-in
+* Metascience sandpit liaison meetings
+* SSI check-in prep
+* Annual tax review
+* Host co-working
+* Governance committee report
+* Listening in to the last Community Spotlight session
+
+### What did you struggle with?
+
+* Ended up pushing quite a few tasks to next week. Underestimated how long some things take, but they are strategically important and I need to wrap my head around that.
+
+### Any other topics
+
+Applied for another thing. Watched a lot of Olympics.
+
 
 ## Week: 2 February 2026
 
