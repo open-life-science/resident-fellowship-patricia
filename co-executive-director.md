@@ -7,6 +7,7 @@
 * [26-01-2026](#week-16-january-2026)
 * [02-02-2026](#week-2-february-2026)
 * [16-02-2026](#week-16-february-2026)
+* [23-02-2026](#week-23-february-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -41,6 +42,32 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 23 February 2026
+
+### What brought you joy this week?
+
+* Felt good about getting that application done and submitted. Took a good chunk of work this week but finally felt like progress towards some strategic work which is nice.
+ 
+### What did you achieve?
+* 1-1 with Sara
+* Team meeting
+* 1-1 with Bethan
+* Check-in with Hugh and more emails around the submission
+* Check-in with SSI on mentoring (+ follow up tasks and prep)
+* Co-Executive check-in
+* FSC/Finance link up meeting
+* Some small bits, GitHub tidy, planning for documentation sprint next week
+* Governance committee meeting
+
+### What did you struggle with?
+
+* Seeing my calendar fill up with so many things last minute-ish and realizing that it will be really hard to get some bigger pieces of work done.
+
+### Any other topics
+
+* Shorter week to take some time for a memorial service.
+* Managed to sign up for quite some freelance extra work. Aligned with OLS though maybe?
 
 ## Week: 16 February 2026
 
