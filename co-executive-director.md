@@ -8,6 +8,7 @@
 * [02-02-2026](#week-2-february-2026)
 * [16-02-2026](#week-16-february-2026)
 * [23-02-2026](#week-23-february-2026)
+* [02-03-2026](#week-2-march-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -42,6 +43,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 2 March 2026
+
+### What brought you joy this week?
+
+* Writing a persona - surprisinhly
+* Grateful for Danny hosting co-working so I could attend a session live which was really helpful for my mental state this week.
+ 
+### What did you achieve?
+* All Directors meeting
+* Team meeting
+* Documentation sprint sessions: 4 new sections and unblocking Sara on a website update
+* NASA invoices for February
+* Salary allocations, quarterly reporting prep
+* 26/27 budget discussions and some projections
+* Bethan 1-1
+* Seeds2Sytem team meeting on personas
+* NASA extension check
+* Arielle policy check-in
+* Tidying inbox and tabs a bit
+* Rewriting my to do list several times on small bits
+
+### What did you struggle with?
+
+* Feelings and energy levels
+
+### Any other topics
+
+Managed some freelance work on SSI guide work and some prep for EOSC reviews.
 
 ## Week: 23 February 2026
 
