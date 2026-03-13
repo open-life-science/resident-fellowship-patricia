@@ -9,6 +9,7 @@
 * [16-02-2026](#week-16-february-2026)
 * [23-02-2026](#week-23-february-2026)
 * [02-03-2026](#week-2-march-2026)
+* [09-03-2026](#week-9-march-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -43,6 +44,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 9 March 2026
+
+### What brought you joy this week?
+
+* Catching up on my to do list
+* Some planning with lovely collaborators
+ 
+### What did you achieve?
+* Quick catch-up with Yo
+* 1-1 with Sara (x2 kind of)
+* 1-1 with Bethan
+* Surviving to thriving catch-up
+* SSI check-in
+* Annual report brainstorming
+* Companies House updates
+* Async non-exec director check-in
+* PEM updates on equipment and some payroll bits
+* FSC check-in meeting
+* Finalizing contract templates
+
+### What did you struggle with?
+
+* Didn't make as much progress with the freelance work as I might have wanted
+* Some comms from funders on various bits.
+
+### Any other topics
+
+Weather has been all over the place this week. And mood, too somehow.
 
 ## Week: 2 March 2026
 
