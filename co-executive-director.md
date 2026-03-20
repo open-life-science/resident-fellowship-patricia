@@ -10,6 +10,7 @@
 * [23-02-2026](#week-23-february-2026)
 * [02-03-2026](#week-2-march-2026)
 * [09-03-2026](#week-9-march-2026)
+* [16-03-2026](#week-16-march-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -44,6 +45,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 16 March 2026
+
+### What brought you joy this week?
+
+* Spontaneous scheming for potential future cohorts
+* Meeting people in person (even if it was on my day off, it was a very good day off)
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 1-1 with Bethan
+* Team meeting
+* Prep and chair Seeds2Systems meeting
+* Pay tax
+* Co-Exec check-in
+* Catch-up with Arielle
+* Sort Cass's pay and feed back on contract
+* Surviving to Thriving reviews
+* Small bits: approve pay, partnership/CoI updates, book CW26 travel part 2
+
+### What did you struggle with?
+
+* Got derailed by a lot of minor/unexpected bits.
+* Struggled surprisingly hard with submitting reviews and based on that, impostor syndrome.
+
+### Any other topics
+
+* New glasses and building noise required adjusting.
+* Wrapped up SSI mentoring - what a journey!
 
 ## Week: 9 March 2026
 
