@@ -11,6 +11,7 @@
 * [02-03-2026](#week-2-march-2026)
 * [09-03-2026](#week-9-march-2026)
 * [16-03-2026](#week-16-march-2026)
+* [23-03-2026](#week-23-march-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -45,6 +46,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 23 March 2026
+
+### What brought you joy this week?
+
+* Dinner with Batool and Anelda
+* Noticing that I still have opinions about some of the work we do/impact
+ 
+### What did you achieve?
+* Facilitator training review and prep
+* Run facilitator training
+* Bethan 1-1 incl. retro
+* Contract review for Discourse
+* Pay Laura
+* Nebula report review and next step planning
+* PEM catch-up
+* Equipment manifest update and restructure to align with PEMs documentation
+* Business insurance renewal
+* FSC/Finance catch-up
+* UKRI paperwork
+* Offboarding checklist updates
+* Some reflection/planning notes
+  
+### What did you struggle with?
+
+* EOSC review is more work than expected and I feel impostor syndrome. Figure out how not to get stressed ahead of time off and still get done what needs getting done.
+
+### Any other topics
+
+Checked in with the Hidden REF after ages.
+Wrapped up SSI review work.
 
 ## Week: 16 March 2026
 
