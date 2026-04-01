@@ -12,6 +12,7 @@
 * [09-03-2026](#week-9-march-2026)
 * [16-03-2026](#week-16-march-2026)
 * [23-03-2026](#week-23-march-2026)
+* [30-03-2026](#week-30-march-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -46,6 +47,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 30 March 2026
+### What brought you joy this week?
+
+* Seeing again that we have the best team and see Sara plan all the things
+ 
+### What did you achieve?
+* 1-1 with Sara
+* 1-1 with Bethan
+* SSI check-in
+* Some prep of mentorship session
+* Co-Exec leadership check-in
+* Finalize business insurance
+* Surviving to Thriving meeting
+* NASA invoices
+* Salary allocations
+* Wrangling to do lists and calendars in the hope that we won't miss anything
+
+### What did you struggle with?
+
+* I think it was overall ok. Busy as only 2 work days, but hey. 
+
+### Any other topics
+
+EOSC work is all wrapped up and the last part was fun!
 
 ## Week: 23 March 2026
 
