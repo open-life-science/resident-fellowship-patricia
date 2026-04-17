@@ -13,6 +13,7 @@
 * [16-03-2026](#week-16-march-2026)
 * [23-03-2026](#week-23-march-2026)
 * [30-03-2026](#week-30-march-2026)
+* [13-04-2026](#week-13-april-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -47,6 +48,36 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 13 April 2026
+
+### What brought you joy this week?
+
+* Making bread
+* Low key co-working
+ 
+### What did you achieve?
+* Sara 1-1
+* Bethan 1-1
+* Follow up conversation with one of Justyna's leads
+* Contract extension
+* Mentorship training prep
+* NASA reporting
+* FSC review bits and bobs
+* Contract review
+* Seeds2Systems team meeting
+* Catching up on Surviving to Thriving proposal
+* Surviving to Thriving proposal writing meeting
+* Sort some Telleroo bits
+
+### What did you struggle with?
+
+* Overall not panicking and moving things to next week where suitable
+
+### Any other topics
+
+* Invoiced for some freelance work after the break and volunteered for more stuff.
+
 
 ## Week: 30 March 2026
 ### What brought you joy this week?
