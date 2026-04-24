@@ -14,6 +14,7 @@
 * [23-03-2026](#week-23-march-2026)
 * [30-03-2026](#week-30-march-2026)
 * [13-04-2026](#week-13-april-2026)
+* [20-04-2026](#week-20-april-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -48,6 +49,38 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 20 April 2026
+
+### What brought you joy this week?
+
+* Mentorship conversations
+* A day off spent reading in the garden
+ 
+### What did you achieve?
+* Deliver mentorship training
+* 1-1 with Sara
+* 1-1 with Bethan
+* HR documentation catch-up
+* Team meeting
+* FSC/Finance check-in with Laura
+* Salary allocation/planning, general budget planning
+* RSECon sponsorship
+* Some Discourse grant prep
+* Review Arielle's policies
+* Policy check-in meeting
+* Small catch-ups: updates on all convos, Canadian tax, accountant updates
+* Wrangling prep for travel next week
+* Sloan proposal contributions
+* Sloan proposal writing meeting
+
+### What did you struggle with?
+
+* Feelings. Tried to reflect as we went along to learn.
+
+### Any other topics
+
+Managed to get stung by a bee on top of everything else.
 
 ## Week: 13 April 2026
 
