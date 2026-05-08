@@ -15,6 +15,7 @@
 * [30-03-2026](#week-30-march-2026)
 * [13-04-2026](#week-13-april-2026)
 * [20-04-2026](#week-20-april-2026)
+* [04-05-2026](#week-4-may-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -49,6 +50,39 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 4 May 2026
+
+### What brought you joy this week?
+
+* Knitting and poetry at CW26
+* Low key getting tasks done in co-working
+ 
+### What did you achieve?
+* Travel back from CW
+* NASA invoices for April
+* Catch up with Joyce on Discourse grants
+* SSI catch-up on Discourse
+* Finalizing Cass's Canada tax, signing Manchester contract
+* Bethan 1-1
+* Catch-ups with Yo
+* Logistics for Director mini retreat
+* FSC status update meeting
+* Signing all the Nebula contracts
+* CW expenses
+* Explore coaching
+* Prep team meeting
+* Liaise Nebula final submission
+* Sloan alignment meeting
+* EDIHub+ follow ups
+
+### What did you struggle with?
+
+* Was tired on Tuesday - low energy coming back.
+
+### Any other topics
+
+Wrangled an RSECon submission
 
 ## Week: 20 April 2026
 
