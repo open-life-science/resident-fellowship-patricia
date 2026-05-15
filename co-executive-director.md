@@ -16,6 +16,7 @@
 * [13-04-2026](#week-13-april-2026)
 * [20-04-2026](#week-20-april-2026)
 * [04-05-2026](#week-4-may-2026)
+* [11-05-2026](#week-11-may-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -50,6 +51,37 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 11 May 2025
+
+### What brought you joy this week?
+
+* PeerLadder selection day
+* Get an EOI in
+* Plan coaching
+ 
+### What did you achieve?
+* Sara 1-1
+* Coaching discovery call and all the follow up
+* Bethan's reimbursement
+* EDIHub+ exploration call
+* Chair team meeting
+* Bethan 1-1
+* Co-Exec catch up
+* Policy session in Seeds2Systems meeting
+* Wellcome EOI and set up
+* Most urgent RCMCoop unblocking
+* Sloan call
+* RCMCoop finance prep
+
+### What did you struggle with?
+
+* Deadlines sneaking up that made things stressful
+* Taking time back as planned
+
+### Any other topics
+
+I'm out of brain capacity for anything else.
 
 ## Week: 4 May 2026
 
