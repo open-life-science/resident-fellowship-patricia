@@ -17,6 +17,7 @@
 * [20-04-2026](#week-20-april-2026)
 * [04-05-2026](#week-4-may-2026)
 * [11-05-2026](#week-11-may-2026)
+* [18-05-2026](#week-18-may-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -51,6 +52,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 18 May 2026
+
+### What brought you joy this week?
+
+* Directors Away Day in York and all the vegan cruffins!
+ 
+### What did you achieve?
+* RCMCoop: catch up meeting, contract amendment, budget approval
+* Review and write sections for the Discourse proposal
+* Team meeting
+* Sara 1-1
+* Bethan 1-1
+* Co-Exec leadership check-in
+* Policy catch-up with Arielle
+* PEM catch-up
+* FSC/Finance catch-up
+* Co-working, incl. a SSI/SocRSE catch-up
+* Move (all important?) to dos to GitHub
+* Start the governance committee report
+
+### What did you struggle with?
+
+* What even is time 🫠
+
+### Any other topics
+
+I managed to do some new reading and there's a long sunny weekend coming up!
+
 
 ## Week: 11 May 2025
 
