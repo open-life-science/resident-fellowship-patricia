@@ -18,6 +18,7 @@
 * [04-05-2026](#week-4-may-2026)
 * [11-05-2026](#week-11-may-2026)
 * [18-05-2026](#week-18-may-2026)
+* [25-05-2026](#week-25-may-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -52,6 +53,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 25 May 2026
+
+### What brought you joy this week?
+
+* Watching DRA folks cook in the co-working call
+* Days off and nice weather and time to read!
+ 
+### What did you achieve?
+* Signing all the contracts again
+* 1-1 with Bethan
+* Co-Exec Directors check-in
+* Nebula retro meeting
+* Prepare and chair Seeds2Systems strategy meeting
+* Governance committee report
+* Minor finance inbox updates and updates on other bits in the inbox
+* PEM updates
+* Some more Discourse grant work
+
+### What did you struggle with?
+
+* Energy levels on Friday were a bit low.
+
+### Any other topics
+
+* My random application was successful!!
+* I was better at taking time off and keeping this work week short with the bank holiday!
+
+
 
 ## Week: 18 May 2026
 
