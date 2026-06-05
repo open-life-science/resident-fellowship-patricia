@@ -19,6 +19,7 @@
 * [11-05-2026](#week-11-may-2026)
 * [18-05-2026](#week-18-may-2026)
 * [25-05-2026](#week-25-may-2026)
+* [01-06-2026](#week-1-june-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -53,6 +54,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 1 June 2026
+
+### What brought you joy this week?
+
+* Governance committee meeting felt good
+* Some short reflection time
+* Robin Ince 💙
+ 
+### What did you achieve?
+* Team meeting
+* NASA invoices (planned, longer than expected)
+* 1-1 with Sara
+* DisCouRSE review and submission (planned, longer than expected)
+* RCMCoop/DisCouRSE 2 discussion (unplanned)
+* Co-Exec check-ins
+* Retreat prep
+* GitHub updates
+* Equipment manifest updates
+
+### What did you struggle with?
+
+* Feeling that I've done enough that week.
+* Not getting somehow stressed about next week.
+
+### Any other topics
+
+* More health scares/appointments on all sides have provided interesting shifts of things.
 
 ## Week: 25 May 2026
 
