@@ -20,6 +20,7 @@
 * [18-05-2026](#week-18-may-2026)
 * [25-05-2026](#week-25-may-2026)
 * [01-06-2026](#week-1-june-2026)
+* [15-06-2026](#week-15-june-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -55,6 +56,38 @@
 
 This space is yours to add to as needed.
 
+## Week: 15 June 2026
+
+### What brought you joy this week?
+
+* Retreat last week was good (thus not update then)
+* Hosting the Nebula call.
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* 1-1 with Sara
+* Co-Exec check-in
+* FSC/Finance link-up
+* Hosting co-working
+* Sorting maternity leave paperwork
+* Catching up on my receipts
+* Order a new laptop
+* Some documentation fixes on salary assignments
+* Some budget update investigation thoughts
+* Sign up for SSI All Fellows meeting
+* SSI monthly check-in and some planning for exiting things in autumn
+* Closing out some small admin bits
+
+### What did you struggle with?
+
+* Felt like I threw in some budget spanners again
+* Equipment - wasn't great for folks that joined me on calls
+* Lacked a bit motivation towards the end of the week.
+
+### Any other topics
+
+* Finally managed to arrange some hopefully nice things.
+  
 ## Week: 1 June 2026
 
 ### What brought you joy this week?
