@@ -21,6 +21,7 @@
 * [25-05-2026](#week-25-may-2026)
 * [01-06-2026](#week-1-june-2026)
 * [15-06-2026](#week-15-june-2026)
+* [22-06-2026](#week-22-june-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -55,6 +56,40 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 22 June 2026
+
+### What brought you joy this week?
+
+* Other people being happy with the things I sent them.
+* Kicking off the coaching journey
+* Some time in the hammock reading
+ 
+### What did you achieve?
+* Draft 2 contract extensions
+* 1-1 with Sara
+* 1-1 with Bethan
+* OSPARK planning/brainstorming session
+* Strategy catch-up and follow up tasks
+* Budget reshuffles and projections
+* Co-Exec leadership catch-up
+* Setting up the new laptop for work and doing some troubleshooting until everything was set to go
+* Prep next week's team meeting
+* Comms handover meeting
+* Seeds2Systems meeting
+* SSI DisCouRSE final report input
+* Policy check-in meeting with Arielle and some prep
+* Surviving to Thriving catch-up
+  
+### What did you struggle with?
+
+* It was warm and there were moments where tech didn't work as it should.
+* Energy levels on some days.
+* Too much to do before going on leave.
+
+### Any other topics
+
+I read some things this week that make me wonder if I want to restructure this soon.
 
 ## Week: 15 June 2026
 
