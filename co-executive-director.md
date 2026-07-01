@@ -22,6 +22,7 @@
 * [01-06-2026](#week-1-june-2026)
 * [15-06-2026](#week-15-june-2026)
 * [22-06-2026](#week-22-june-2026)
+* [29-06-2026](#week-29-june-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -56,6 +57,29 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 29 June 2026
+
+### What brought you joy this week?
+
+* Coaching session seemed helpful to get brain sorted for the week
+ 
+### What did you achieve?
+* NASA invoices
+* Chaired team meeting
+* Seeds2Systems catch-up and some brainstorming
+* Co-Exec check-in
+* FSC catch-up
+* Bethan 1-1
+* Logistic prep for All Fellows meeting
+* Small admin updates ahead of leave
+
+### What did you struggle with?
+
+* Wrapping up took a bit longer than expected and internet still had some issues.
+
+### Any other topics
+So looking forward to a holiday!
 
 ## Week: 22 June 2026
 
