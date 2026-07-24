@@ -23,6 +23,7 @@
 * [15-06-2026](#week-15-june-2026)
 * [22-06-2026](#week-22-june-2026)
 * [29-06-2026](#week-29-june-2026)
+* [20-07-2026](#week-20-july-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -57,6 +58,34 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 20 July 2026
+### What brought you joy this week?
+
+* If we include last week - All Fellows meeting in Manchester.
+* Wrapping up with Sara for maternity leave - bittersweet to not have her around, but she did a wonderful job of handing over, on so many levels.
+ 
+### What did you achieve?
+* Team meeting
+* 1-1s with Bethan and Sara
+* Co-Exec check-ins
+* Host co-working
+* S2S strategy meeting
+* SSI catch-up and prep for the next project
+* Some follow ups with the accountants
+* 1:1 with OSC consultant, weekly meeting, and some more general catching up on that and logistics for the next steps
+* Expense claim
+* More or less successful reflection
+
+### What did you struggle with?
+
+* Some overwhelm after being back 
+* Some feedback I disagree with
+* Energy levels and emotions
+
+### Any other topics
+
+Slightly regretting saying yes to potentially too many things. But when energy levels normalize, I am a capable being and things might be alright.
 
 ## Week: 29 June 2026
 
