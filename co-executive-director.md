@@ -24,6 +24,7 @@
 * [22-06-2026](#week-22-june-2026)
 * [29-06-2026](#week-29-june-2026)
 * [20-07-2026](#week-20-july-2026)
+* [27-07-2026](#week-27-july-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -58,6 +59,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 27 July 2026
+
+### What brought you joy this week?
+
+* Start of the OSC governance kick-off, before sound left me
+ 
+### What did you achieve?
+* InFrame project meeting attendance
+* Contract checks
+* 1-1 with Bethan
+* FSC catch-up
+* Co-Exec catch up
+* OSPARK info webinar
+* Host co-working
+* SSI Fireside chat planning
+* Meeting preps
+* Reimbursement
+* Finally some gov committee scheduling
+* OSC meeting
+
+### What did you struggle with?
+
+* A few tasks that I'm still pushing.
+* Focus during co-working.
+
+### Any other topics
+
+Looking forward to some more time off.
 
 ## Week: 20 July 2026
 ### What brought you joy this week?
