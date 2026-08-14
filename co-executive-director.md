@@ -25,6 +25,7 @@
 * [29-06-2026](#week-29-june-2026)
 * [20-07-2026](#week-20-july-2026)
 * [27-07-2026](#week-27-july-2026)
+* [10-08-2026](#week-10-august-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -59,6 +60,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 10 August 2026
+
+### What brought you joy this week?
+
+* A lot of people with small check-ins <3
+   
+### What did you achieve?
+* Some supplier setup follow ups to ensure we can get POs and money!
+* 1-1 with Bethan
+* 1-1s with Yo incl. handover plan for the next 2 weeks and some strategy catch-up
+* FSC/Finance check-in
+* Scheduling governance
+* Preparing executive report
+* OSC meeting
+* Basic look at the new payroll system
+  
+### What did you struggle with?
+
+* Things took longer and I also tried to squeeze in some other catch-ups which was more than brain could comfortably handle.
+
+### Any other topics
+
+Lazy breaks are good. Fringe is fun. Getting back to somehow regular schedule is tiring.
 
 ## Week: 27 July 2026
 
