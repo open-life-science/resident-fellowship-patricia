@@ -26,6 +26,7 @@
 * [20-07-2026](#week-20-july-2026)
 * [27-07-2026](#week-27-july-2026)
 * [10-08-2026](#week-10-august-2026)
+* [17-08-2026](#week-17-august-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -60,6 +61,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 17 August 2026
+
+### What brought you joy this week?
+
+* Fringe shows
+* Danny being able to host co-working when I was really not feeling well.
+ 
+### What did you achieve?
+* Payroll tasks for August
+* PEM check-in
+* P11 follow ups
+* Team meeting
+* Strategy meeting and prep
+* Bethan 1-1
+* OSC weekly meeting and some homework
+* Some budget work
+* Some strategy follow ups
+
+### What did you struggle with?
+
+* Body floored me on Friday, so didn't get to do as much then as wanted.
+
+### Any other topics
+Out of energy for anything else.
 
 
 ## Week: 10 August 2026
