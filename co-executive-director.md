@@ -27,6 +27,7 @@
 * [27-07-2026](#week-27-july-2026)
 * [10-08-2026](#week-10-august-2026)
 * [17-08-2026](#week-17-august-2026)
+* [24-08-2026](#week-24-august-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -61,6 +62,39 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 24 August 2026
+
+### What brought you joy this week?
+
+* Random chats to kick off the co-working call
+* Coaching session
+ 
+### What did you achieve?
+* More budget updates and enquiries
+* Support with reconciliation
+* Team meeting
+* Equipment manifest update
+* Send/prep invoices
+* OSC:
+  * Governance meeting
+  * AI meeting
+  * Homework to prep and catch up on calls missed
+* OSPARK:
+  *  Application prep and review
+  *  Tagging data
+  *  Stipend discussion with Joyce
+  *  Decision and holding emails
+
+### What did you struggle with?
+
+* Some meetings fired my brain
+* Tasks taking longer, stuff being pushed to next week.
+* Did quite a few extra hours this week to manage to cover just the things with a deadline this week.
+
+### Any other topics
+
+Enjoyed my last round of Fringe shows. Looking forward to a long weekend.
 
 ## Week: 17 August 2026
 
