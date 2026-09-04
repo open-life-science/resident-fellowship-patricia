@@ -28,6 +28,7 @@
 * [10-08-2026](#week-10-august-2026)
 * [17-08-2026](#week-17-august-2026)
 * [24-08-2026](#week-24-august-2026)
+* [31-08-2026](#week-31-august-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -62,6 +63,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 31 August 2026
+
+### What brought you joy this week?
+
+* Shorter week due to bank holiday
+* Random Friday reflections
+   
+### What did you achieve?
+* Monthly PEM emails
+* 1-1 with Bethan
+* Co-Exec leadership catch-up, prep for next week
+* OSC governance meeting
+* OLS governance committee
+* Fireside chat follow ups
+* Contracts, HR bits
+* OSPARK stipend decision making and all the emails
+
+### What did you struggle with?
+
+* Shorter week meant a few task that would have been due are pushed to next week.
+
+### Any other topics
+
+One year as Co-Exec, what a ride!
 
 ## Week: 24 August 2026
 
