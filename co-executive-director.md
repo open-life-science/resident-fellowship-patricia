@@ -29,6 +29,7 @@
 * [17-08-2026](#week-17-august-2026)
 * [24-08-2026](#week-24-august-2026)
 * [31-08-2026](#week-31-august-2026)
+* [07-09-2026](#week-7-september-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -63,6 +64,35 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 7 September 2026
+
+### What brought you joy this week?
+
+* Nice food in York.
+ 
+### What did you achieve?
+* 1-1s with Bethan and Gracielle
+* Co-Exec check-in and clear out of old stuff
+* OSC governance call
+* OSC check-in
+* Coaching call
+* Roots review
+* FSC/Finance link-up
+* OSPARK registration updates and reminders
+* OSPARK solidarity payment
+* Compensation band updates
+* Start on some OSPARK content
+* Directors away day
+
+### What did you struggle with?
+
+* Still really behind on a few tasks - it will now require crunch time to get done I think.
+* Energy levels when dealing with a cold.
+
+### Any other topics
+
+I'm out of thoughts for this week.
 
 ## Week: 31 August 2026
 
