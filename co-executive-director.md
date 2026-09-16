@@ -30,6 +30,7 @@
 * [24-08-2026](#week-24-august-2026)
 * [31-08-2026](#week-31-august-2026)
 * [07-09-2026](#week-7-september-2026)
+* [14-09-2026](#week-14-september-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -64,6 +65,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 14 September 2026
+
+### What brought you joy this week?
+
+* Unrelated rants at Yo when tired and grumpy.
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* 1-1 with Gracielle
+* OSPARK meeting
+* OSC meeting
+* Co-Exec check-in
+* IFRS meeting schedule and fireside push
+* OSPARK update on workbook on zenodo
+* OSPARK session on advocacy
+* Some prep on cohort intro session, planning of work for next week
+* Seeds2Systems strategy meeting
+* Finance inbox catch-up and payments
+* PEM email trying to unblock OSR close out
+
+### What did you struggle with?
+
+* Energy levels. Would have liked to take ToiL but needed to swap work days to make sure stuff gets done :(.
+
+### Any other topics
+Feel quite behind on other work, too.
 
 ## Week: 7 September 2026
 
