@@ -31,6 +31,7 @@
 * [31-08-2026](#week-31-august-2026)
 * [07-09-2026](#week-7-september-2026)
 * [14-09-2026](#week-14-september-2026)
+* [21-09-2026](#week-21-september-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -65,6 +66,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 21 September 2026
+
+### What brought you joy this week?
+
+* Scheming with Oscar.
+* Checking in with Sara.
+ 
+### What did you achieve?
+* OSC planning, reviews, CV, budget thoughts
+* Chair team meeting
+* Coaching session
+* Co-host first OSPARK cohort call
+* OSC governance session
+* FSC catch-up
+* Chase PEM for September salaries
+* Some basic payments and finance inbox tidying
+
+### What did you struggle with?
+
+* Week started with big overwhelm. And proposal crunch added hours.
+
+### Any other topics
+
+Looking forward to some quieter/catch-up time.
 
 ## Week: 14 September 2026
 
