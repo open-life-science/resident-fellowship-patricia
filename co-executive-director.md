@@ -32,6 +32,7 @@
 * [07-09-2026](#week-7-september-2026)
 * [14-09-2026](#week-14-september-2026)
 * [21-09-2026](#week-21-september-2026)
+* [28-09-2026](#week-28-september-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -66,6 +67,33 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 28 September 2026
+
+### What brought you joy this week?
+
+* OSPARK call was fun! Mel is a pleasure to collaborate with.
+* Planning with Oscar - new attempt at a timeline that we can hopefully keep.
+ 
+### What did you achieve?
+* Review NASA report
+* Co-Exec check-in: Policy reviews
+* OSPARK peer mentor matching
+* CSCCE catch up
+* Team meeting
+* 1-1 with Gracielle
+* OSC budget catch up
+* OSC governance meeting
+* Ally Skills push
+
+### What did you struggle with?
+
+* Didn't have energy to tackle any of the more complex finance work.
+* A lot of time off coming up and days in the office will be busy.
+
+### Any other topics
+
+* Freelance work has now kicked off, too and will up time (and energy).
 
 ## Week: 21 September 2026
 
