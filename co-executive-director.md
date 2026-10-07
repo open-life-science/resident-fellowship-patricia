@@ -33,6 +33,7 @@
 * [14-09-2026](#week-14-september-2026)
 * [21-09-2026](#week-21-september-2026)
 * [28-09-2026](#week-28-september-2026)
+* [05-10-2026](#week-5-october-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -67,6 +68,31 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 5 October 2026
+
+### What brought you joy this week?
+
+* Cohort calls seem a breeze now :)
+ 
+### What did you achieve?
+* Coaching call
+* Co-Exec check-in
+* Some OSC follow ups
+* Team meeting
+* FSC/Finance check-in
+* OSRetreat finances part one
+* Catching up on S2S reimbursements
+* Some cohort management bits and bobs and 
+
+### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+
+### Any other topics
+
+Fidelis work picked up this week.
+Being only in the office for a few days between travel is strange and slightly stressful.
 
 ## Week: 28 September 2026
 
