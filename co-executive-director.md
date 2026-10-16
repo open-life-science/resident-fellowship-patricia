@@ -34,6 +34,7 @@
 * [21-09-2026](#week-21-september-2026)
 * [28-09-2026](#week-28-september-2026)
 * [05-10-2026](#week-5-october-2026)
+* [12-10-2026](#week-12-october-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -69,6 +70,32 @@
 
 This space is yours to add to as needed.
 
+## Week: 12 October 2026
+
+### What brought you joy this week?
+
+* Catching up with Sara (and baby)
+ 
+### What did you achieve?
+* 1-1 with Gracielle
+* 1-1 with Bethan
+* Team meeting
+* Review/feedback on a few FSC related tasks
+* Some basic Discourse project planning
+* Co-Exec leadership catch-ups
+* Reviewing OSC feedback and answers
+* Trying to wrap my head around the Wellcome proposal (and failing)
+* Finally following up on quite a few PEM emails
+* Coaching accountability check-in
+* Q4 governance scheduling
+
+### What did you struggle with?
+
+* Energy levels - coming back from travelling and body being frail (and spouse being sick) is not a great combo overall.
+ 
+### Any other topics
+* Really busy week for Fidelis work as well - wrapping up soon though.
+ 
 ## Week: 5 October 2026
 
 ### What brought you joy this week?
