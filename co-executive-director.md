@@ -66,6 +66,10 @@
 
 * Replace this text with a bullet point list of where you struggled this week.
 
+#### Which coaching insights have you drawn on to help?
+
+#### How did this week contribute to future P?
+
 ### Any other topics
 
 This space is yours to add to as needed.
