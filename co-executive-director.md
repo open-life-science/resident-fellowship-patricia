@@ -35,6 +35,7 @@
 * [28-09-2026](#week-28-september-2026)
 * [05-10-2026](#week-5-october-2026)
 * [12-10-2026](#week-12-october-2026)
+* [26-10-2026](#week-26-October-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -69,6 +70,42 @@
 #### Which coaching insights have you drawn on to help?
 
 #### How did this week contribute to future P?
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+## Week: 26 October 2026
+
+### What brought you joy this week?
+
+* Digging into budget numbers.
+* Last minute co-working on OSC proposal
+ 
+### What did you achieve?
+* Chaired team meeting
+* 1-1 with Bethan
+* Coaching call and updated template
+* Review Wellcome submission
+* OSPARK post bootcamp check-in
+* Host co-working
+* OSC weekly meeting
+* Directors co-working: agreement review, mini-retro, MOCHA review
+* Set up holiday spreadsheet
+* Strategy team meeting
+* Co-Exec catch-up
+* OSC proposal contributions
+* Nebula report start
+
+### What did you struggle with?
+
+* Worked more hours again.
+
+#### Which coaching insights have you drawn on to help?
+* Reminding me of agency, clarifying purpose. Small tasks that felt I made progress and contributed well.
+
+#### How did this week contribute to future P?
+* Calmer reactions to curveballs towards the end.
 
 ### Any other topics
 
