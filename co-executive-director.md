@@ -36,6 +36,7 @@
 * [05-10-2026](#week-5-october-2026)
 * [12-10-2026](#week-12-october-2026)
 * [26-10-2026](#week-26-October-2026)
+* [02-11-2026](#week-11-november-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -74,6 +75,43 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+
+## Week: 2 November 2026
+
+### What brought you joy this week?
+
+* Reflections to end a difficult week
+* Starting the week with some energy and motivation
+ 
+### What did you achieve?
+* 1-1 with Bethan
+* 1-1 with Gracielle
+* Budget updates
+* Team meeting
+* Co-Executive check-in
+* Policy catch up
+* FSC catch-up
+* Wellcome tender stuff
+* Reimbursement
+* PEM salary allocations
+* OSC weekly meeting
+* OSC Charter review
+* Setting up joint Co-Exec coaching
+
+### What did you struggle with?
+
+* Difficult conversations mid week caused emotions and wasn't sure how to deal with them
+
+#### Which coaching insights have you drawn on to help?
+* Not yet fully implemented, but ended up with a challenge that we think can be solved by 5Cs, so will try to bring that in more.
+
+#### How did this week contribute to future P?
+* Started happy, was grumpy and turns out joint reflection and the option for future joint coaching make things a bit calmer and slightly more content.
+
+### Any other topics
+
+Fellowship selection this week and next week will take some extra capacity.
 
 ## Week: 26 October 2026
 
