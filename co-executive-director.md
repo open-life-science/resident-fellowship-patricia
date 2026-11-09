@@ -4,7 +4,7 @@
 * [05-01-2026](#week-5-january-2026)
 * [12-01-2026](#week-12-january-2026)
 * [19-01-2026](#week-19-january-2026)
-* [26-01-2026](#week-16-january-2026)
+* [26-01-2026](#week-26-january-2026)
 * [02-02-2026](#week-2-february-2026)
 * [16-02-2026](#week-16-february-2026)
 * [23-02-2026](#week-23-february-2026)
@@ -35,15 +35,15 @@
 * [28-09-2026](#week-28-september-2026)
 * [05-10-2026](#week-5-october-2026)
 * [12-10-2026](#week-12-october-2026)
-* [26-10-2026](#week-26-October-2026)
-* [02-11-2026](#week-11-november-2026)
+* [26-10-2026](#week-26-october-2026)
+* [02-11-2026](#week-2-november-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
 * [08-09-2025](#week-8-september-2025)
 * [15-09-2025](#week-15-september-2025)
 * [29-09-2025](#week-29-september-2025)
-* [06-10-2025](#week-10-october-2025)
+* [06-10-2025](#week-6-october-2025)
 * [27-10-2025](#week-27-october-2025)
 * [03-11-2025](#week-3-november-2025)
 * [10-11-2025](#week-10-november-2025)
@@ -70,7 +70,8 @@
 
 #### Which coaching insights have you drawn on to help?
 
-#### How did this week contribute to future P?
+#### What would future P say about this week? Any areas where she would have behaved differently?
+<!-- Clarity is kindness -->
 
 ### Any other topics
 
@@ -648,7 +649,7 @@ I read some things this week that make me wonder if I want to restructure this s
 I managed to do some new reading and there's a long sunny weekend coming up!
 
 
-## Week: 11 May 2025
+## Week: 11 May 2026
 
 ### What brought you joy this week?
 
