@@ -37,6 +37,7 @@
 * [12-10-2026](#week-12-october-2026)
 * [26-10-2026](#week-26-october-2026)
 * [02-11-2026](#week-2-november-2026)
+* [09-11-2026](#week-9-november-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -77,6 +78,35 @@
 
 This space is yours to add to as needed.
 
+## Week: 9 November 2026
+
+### What brought you joy this week?
+
+* OSPARK call - small group but fun
+ 
+### What did you achieve?
+* Coaching session
+* 1-1 with Bethan
+* Team meeting
+* OSC meeting
+* Check in with Irene around mentoring
+* OSPARK meeting
+* Update GitHub with funding/staffing
+* Draft planning for OSPARK announcements
+* Nebula report
+
+### What did you struggle with?
+
+* Adjusting when I had to do major reshuffle to cover for sickness leave.
+
+#### Which coaching insights have you drawn on to help?
+Keeping going. Clear communication in a meeting rather than creating misunderstandings in writing.
+
+#### What would future P say about this week? Any areas where she would have behaved differently?
+* Overall okay I think. Kept agency and boundaries.
+  
+### Any other topics
+Took some ToiL to still have a free day after Fellowship selection. And I started LEGO.
 
 ## Week: 2 November 2026
 
