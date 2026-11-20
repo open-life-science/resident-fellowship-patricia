@@ -38,6 +38,7 @@
 * [26-10-2026](#week-26-october-2026)
 * [02-11-2026](#week-2-november-2026)
 * [09-11-2026](#week-9-november-2026)
+* [16-11-2026](#week-16-november-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -77,6 +78,41 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 16 November 2026
+
+### What brought you joy this week?
+
+* Tired Friday brain buying presents
+* Eating a frog that was more of a chocolate frog but brain was stupid about it.
+* Silly small changes to the OLS Zoom waiting room.
+ 
+### What did you achieve?
+* Co-writing exec report ahead of Q4 governance meeting
+* OSC weekly meeting
+* Small budget updates ahead of the meeting and catching Yo up on the missed week
+* Joint coaching to figure out what we can do to make things easier going forward
+* Prep mentoring training
+* PEM regular check-in, trying to get VAT rolling
+* 1-1 with Bethan
+* Co-Exec check-ins
+* FSC catch-up meeting
+* All the payroll things for November plus planning for December
+* PR review to get all our policies onto GitHub
+
+### What did you struggle with?
+
+* Ran out of energy on Friday - some days off wasn't quite enough to fully recharge.
+
+#### Which coaching insights have you drawn on to help?
+* Tried to bring in having agency to set some boundaries.
+
+#### What would future P say about this week? Any areas where she would have behaved differently?
+* Still a few areas where I got caught up in some perfectionism and need to practice more patience. Joint coaching has identified areas where more clarity is needed.
+ 
+### Any other topics
+
+Nope, brain is out of capacity.
 
 ## Week: 9 November 2026
 
