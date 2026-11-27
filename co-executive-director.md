@@ -39,6 +39,7 @@
 * [02-11-2026](#week-2-november-2026)
 * [09-11-2026](#week-9-november-2026)
 * [16-11-2026](#week-16-november-2026)
+* [23-11-2026](#week-23-november-2026)
   
 ## 2025
 * [01-09-2025](#week-1-september-2025)
@@ -78,6 +79,45 @@
 ### Any other topics
 
 This space is yours to add to as needed.
+
+## Week: 23 November 2026
+
+### What brought you joy this week?
+
+* Chatting to Sara
+* Our OLS S2Systems mentors!
+ 
+### What did you achieve?
+* Telleroo approvals
+* Coaching call
+* Pombase review and feedback
+* Co-Exec leadership catch-up
+* Team meeting
+* Governance committee meeting prep call
+* OSC weekly meeting
+* 1-1 with Bethan
+* Prep OSC presentation for the team
+* S2Systems team meeting
+* Mentor training
+* Closing out grants
+* Hosting co-working
+* Set up Emma as employee
+* Sort out outstanding Nebula bits
+
+### What did you struggle with?
+
+* Feelings after certain meetings
+
+#### Which coaching insights have you drawn on to help?
+* Started tracking mood
+* Noticed that the feelings meant I was below the line. 
+
+#### What would future P say about this week? Any areas where she would have behaved differently?
+I took a break and didn't impulse act when below the line, so she'd be proud of that. Ended the week okay, Friday was quiet and good and what she'd like a work day to be!
+
+### Any other topics
+
+Phone screen died... :(
 
 ## Week: 16 November 2026
 
